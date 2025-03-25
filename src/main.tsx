@@ -4,7 +4,6 @@ import App from "./App.tsx";
 import "./index.css";
 
 import { supabase } from "./lib/supabase"; // ✅ NUEVO
-(window as any).supabase = supabase; // ✅ DEBUG: expone a consola
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
