@@ -1,0 +1,194 @@
+{
+  "prueba_id": "M1_combined",
+  "estructura": {
+    "total_preguntas": 20,
+    "bloques": [
+      "Números",
+      "Álgebra y Funciones",
+      "Geometría",
+      "Probabilidad y Estadística"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "M1_006",
+      "texto": "¿Cuál es el resultado de simplificar la fracción 24/36?",
+      "alternativas": [
+        "A) 1/2",
+        "B) 2/3",
+        "C) 3/4",
+        "D) 5/6"
+      ],
+      "correcta": "B",
+      "explicacion": "Para simplificar 24/36, dividimos numerador y denominador por su máximo común divisor (12): 24÷12/36÷12 = 2/3",
+      "materia": "M1",
+      "area_tematica": "Números",
+      "tema": "Conjunto de los números enteros y racionales",
+      "subtema": "Operaciones con fracciones",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845960"
+    },
+    {
+      "id": "M1_007",
+      "texto": "Si un producto cuesta $5.000 y se le aplica un 20% de descuento, ¿cuál es el precio final?",
+      "alternativas": [
+        "A) $3.000",
+        "B) $3.500",
+        "C) $4.000",
+        "D) $4.500"
+      ],
+      "correcta": "C",
+      "explicacion": "20% de $5.000 = $1.000 (descuento). Precio final = $5.000 - $1.000 = $4.000",
+      "materia": "M1",
+      "area_tematica": "Números",
+      "tema": "Porcentaje",
+      "subtema": "Descuentos porcentuales",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845961"
+    },
+    {
+      "id": "M1_008",
+      "texto": "¿Cuál es el perímetro de un rectángulo de base 8 cm y altura 5 cm?",
+      "alternativas": [
+        "A) 13 cm",
+        "B) 26 cm",
+        "C) 40 cm",
+        "D) 52 cm"
+      ],
+      "correcta": "B",
+      "explicacion": "El perímetro de un rectángulo es 2(base + altura) = 2(8 + 5) = 2(13) = 26 cm",
+      "materia": "M1",
+      "area_tematica": "Geometría",
+      "tema": "Figuras geométricas",
+      "subtema": "Cálculo de perímetros",
+      "dificultad": 1,
+      "created_at": "2025-03-22T18:07:00.845962"
+    },
+    {
+      "id": "M1_009",
+      "texto": "¿Cuál es el valor de x en la ecuación 2(x + 3) = 14?",
+      "alternativas": [
+        "A) 4",
+        "B) 5",
+        "C) 6",
+        "D) 7"
+      ],
+      "correcta": "A",
+      "explicacion": "Primero distribuimos: 2x + 6 = 14, luego restamos 6 a ambos lados: 2x = 8, finalmente dividimos por 2: x = 4",
+      "materia": "M1",
+      "area_tematica": "Álgebra y Funciones",
+      "tema": "Ecuaciones e inecuaciones de primer grado",
+      "subtema": "Resolución de ecuaciones lineales",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845963"
+    },
+    {
+      "id": "M1_010",
+      "texto": "¿Cuál es el resultado de (2/5) × (15/8)?",
+      "alternativas": [
+        "A) 3/4",
+        "B) 3/8",
+        "C) 3/2",
+        "D) 3/5"
+      ],
+      "correcta": "A",
+      "explicacion": "(2/5) × (15/8) = (2×15)/(5×8) = 30/40 = 3/4",
+      "materia": "M1",
+      "area_tematica": "Números",
+      "tema": "Conjunto de los números enteros y racionales",
+      "subtema": "Operaciones con fracciones",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845964"
+    },
+    {
+      "id": "M1_011",
+      "texto": "¿Cuál es el valor de 2³ × 2⁴?",
+      "alternativas": [
+        "A) 64",
+        "B) 128",
+        "C) 256",
+        "D) 512"
+      ],
+      "correcta": "B",
+      "explicacion": "2³ × 2⁴ = 2³⁺⁴ = 2⁷ = 128",
+      "materia": "M1",
+      "area_tematica": "Números",
+      "tema": "Potencias y raíces enésimas",
+      "subtema": "Propiedades de las potencias",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845965"
+    },
+    {
+      "id": "M1_012",
+      "texto": "En una tienda, un producto aumentó su precio en un 30%. Si el precio final es $26.000, ¿cuál era el precio inicial?",
+      "alternativas": [
+        "A) $18.200",
+        "B) $19.000",
+        "C) $20.000",
+        "D) $22.000"
+      ],
+      "correcta": "C",
+      "explicacion": "Si 130% corresponde a $26.000, entonces 100% (precio inicial) = $26.000 ÷ 1,3 = $20.000",
+      "materia": "M1",
+      "area_tematica": "Números",
+      "tema": "Porcentaje",
+      "subtema": "Aumentos porcentuales",
+      "dificultad": 3,
+      "created_at": "2025-03-22T18:07:00.845966"
+    },
+    {
+      "id": "M1_013",
+      "texto": "¿Cuál es el área de un círculo de radio 4 cm?",
+      "alternativas": [
+        "A) 16π cm²",
+        "B) 25π cm²",
+        "C) 36π cm²",
+        "D) 49π cm²"
+      ],
+      "correcta": "A",
+      "explicacion": "El área de un círculo es πr², donde r es el radio. Por lo tanto, A = π(4)² = 16π cm²",
+      "materia": "M1",
+      "area_tematica": "Geometría",
+      "tema": "Figuras geométricas",
+      "subtema": "Cálculo de áreas",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845967"
+    },
+    {
+      "id": "M1_014",
+      "texto": "¿Cuál es la mediana del conjunto de números: 3, 7, 8, 12, 15?",
+      "alternativas": [
+        "A) 7",
+        "B) 8",
+        "C) 9",
+        "D) 12"
+      ],
+      "correcta": "B",
+      "explicacion": "En un conjunto ordenado con cantidad impar de números, la mediana es el valor central. En este caso es 8",
+      "materia": "M1",
+      "area_tematica": "Probabilidad y Estadística",
+      "tema": "Medidas de tendencia central",
+      "subtema": "Mediana",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845968"
+    },
+    {
+      "id": "M1_015",
+      "texto": "Si 3x - 2 > 7, ¿cuál es el conjunto solución?",
+      "alternativas": [
+        "A) x > 3",
+        "B) x < 3",
+        "C) x > 2",
+        "D) x < 2"
+      ],
+      "correcta": "A",
+      "explicacion": "3x - 2 > 7 → 3x > 9 → x > 3",
+      "materia": "M1",
+      "area_tematica": "Álgebra y Funciones",
+      "tema": "Ecuaciones e inecuaciones de primer grado",
+      "subtema": "Resolución de inecuaciones",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845969"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "prueba_id": "CB_combined",
+  "estructura": {
+    "total_preguntas": 344,
+    "bloques": [
+      "genética",
+      "célula", 
+      "ecología",
+      "evolución"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "CB_001",
+      "texto": "La tabla describe tres tipos celulares en función de dos criterios de clasificación. De acuerdo con los datos anteriores, ¿a qué estructuras celulares corresponden R, S y T, respectivamente?",
+      "alternativas": [
+        "A) Núcleo – Pared celular – Núcleo",
+        "B) Nucleoide – Pared celular – Núcleo",
+        "C) Núcleo – Pared celular – Nucleoide", 
+        "D) Núcleo – Membrana celular – Núcleo"
+      ],
+      "correcta": "D",
+      "explicacion": "La estructura R corresponde al núcleo ya que es donde se encuentra el ADN en células eucariontes, S es la membrana celular que delimita la célula, y T es el núcleo que contiene el material genético.",
+      "materia": "CB",
+      "area_tematica": "célula",
+      "tema": "estructura celular",
+      "subtema": "organelos celulares",
+      "dificultad": 3,
+      "imagen_url": null,
+      "respuesta_inferida": true,
+      "created_at": "2025-03-22T18:07:00.845943"
+    },
+    {
+      "id": "CB_002", 
+      "texto": "¿Cuál es la función principal del ADN?",
+      "alternativas": [
+        "A) Almacenar información genética",
+        "B) Producir energía",
+        "C) Transportar oxígeno",
+        "D) Digerir alimentos"
+      ],
+      "correcta": "A",
+      "explicacion": "El ADN almacena la información genética necesaria para el desarrollo y funcionamiento de los seres vivos",
+      "materia": "CB",
+      "area_tematica": "genética",
+      "tema": "material genético",
+      "subtema": "ADN",
+      "dificultad": 2,
+      "imagen_url": null,
+      "respuesta_inferida": true,
+      "created_at": "2025-03-22T18:07:00.845944"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "H_001",
+    "subject": "H",
+    "content": "¿Qué acontecimiento marca el inicio de la Edad Contemporánea?",
+    "options": {
+      "a": "La caída de Constantinopla",
+      "b": "La Revolución Francesa",
+      "c": "El descubrimiento de América",
+      "d": "La Primera Guerra Mundial"
+    },
+    "correct_answer": "b",
+    "explanation": "La Revolución Francesa (1789) marca convencionalmente el inicio de la Edad Contemporánea por sus profundas transformaciones políticas y sociales",
+    "area_tematica": "Historia Universal",
+    "tema": "Edad Contemporánea",
+    "subtema": "Revoluciones y transformaciones políticas",
+    "difficulty": 1,
+    "active": true,
+    "created_at": "2025-03-22T18:07:00.845952"
+  },
+  {
+    "id": "H_002",
+    "subject": "H",
+    "content": "¿Cuál fue el primer pueblo originario que encontraron los españoles al llegar a Chile?",
+    "options": {
+      "a": "Mapuche",
+      "b": "Aymara",
+      "c": "Atacameños",
+      "d": "Diaguitas"
+    },
+    "correct_answer": "c",
+    "explanation": "Los atacameños fueron el primer pueblo que encontraron los españoles al ingresar a Chile por el norte a través del desierto de Atacama",
+    "area_tematica": "Historia de Chile",
+    "tema": "Chile en el siglo XIX",
+    "subtema": "Pueblos originarios y conquista",
+    "difficulty": 2,
+    "active": true,
+    "created_at": "2025-03-22T18:07:00.845953"
+  }
+]

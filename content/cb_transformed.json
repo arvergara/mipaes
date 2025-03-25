@@ -1,0 +1,40 @@
+[
+  {
+    "id": "CB_001",
+    "subject": "CB",
+    "content": "La tabla describe tres tipos celulares en función de dos criterios de clasificación. De acuerdo con los datos anteriores, ¿a qué estructuras celulares corresponden R, S y T, respectivamente?",
+    "options": {
+      "a": "Núcleo – Pared celular – Núcleo",
+      "b": "Nucleoide – Pared celular – Núcleo",
+      "c": "Núcleo – Pared celular – Nucleoide",
+      "d": "Núcleo – Membrana celular – Núcleo"
+    },
+    "correct_answer": "d",
+    "explanation": "La estructura R corresponde al núcleo ya que es donde se encuentra el ADN en células eucariontes, S es la membrana celular que delimita la célula, y T es el núcleo que contiene el material genético.",
+    "area_tematica": "Biología",
+    "tema": "estructura celular",
+    "subtema": "organelos celulares",
+    "difficulty": 3,
+    "active": true,
+    "created_at": "2025-03-22T18:07:00.845943"
+  },
+  {
+    "id": "CB_002",
+    "subject": "CB",
+    "content": "¿Cuál es la función principal del ADN?",
+    "options": {
+      "a": "Almacenar información genética",
+      "b": "Producir energía",
+      "c": "Transportar oxígeno",
+      "d": "Digerir alimentos"
+    },
+    "correct_answer": "a",
+    "explanation": "El ADN almacena la información genética necesaria para el desarrollo y funcionamiento de los seres vivos",
+    "area_tematica": "Biología",
+    "tema": "material genético",
+    "subtema": "ADN",
+    "difficulty": 2,
+    "active": true,
+    "created_at": "2025-03-22T18:07:00.845944"
+  }
+]

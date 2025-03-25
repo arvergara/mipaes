@@ -1,0 +1,194 @@
+{
+  "prueba_id": "M2_combined",
+  "estructura": {
+    "total_preguntas": 20,
+    "bloques": [
+      "Números",
+      "Álgebra y Funciones",
+      "Geometría",
+      "Probabilidad y Estadística"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "M2_003",
+      "texto": "¿Cuál es el valor de sen 30°?",
+      "alternativas": [
+        "A) 1/4",
+        "B) 1/3",
+        "C) 1/2",
+        "D) 2/3"
+      ],
+      "correcta": "C",
+      "explicacion": "El seno de 30° es igual a 1/2, este es uno de los valores trigonométricos fundamentales",
+      "materia": "M2",
+      "area_tematica": "Geometría",
+      "tema": "Razones trigonométricas",
+      "subtema": "Valores trigonométricos notables",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845970"
+    },
+    {
+      "id": "M2_004",
+      "texto": "En una urna hay 5 bolas rojas y 3 azules. Si se extraen dos bolas sin reposición, ¿cuál es la probabilidad de que ambas sean del mismo color?",
+      "alternativas": [
+        "A) 1/4",
+        "B) 1/3",
+        "C) 1/2",
+        "D) 2/3"
+      ],
+      "correcta": "C",
+      "explicacion": "P(RR) = (5/8)(4/7) = 20/56, P(AA) = (3/8)(2/7) = 6/56. P(mismo color) = 26/56 ≈ 1/2",
+      "materia": "M2",
+      "area_tematica": "Probabilidad y Estadística",
+      "tema": "Probabilidad condicional",
+      "subtema": "Probabilidad sin reposición",
+      "dificultad": 3,
+      "created_at": "2025-03-22T18:07:00.845971"
+    },
+    {
+      "id": "M2_005",
+      "texto": "¿Cuál es la solución de la ecuación x² - 5x + 6 = 0?",
+      "alternativas": [
+        "A) x = 2 y x = 3",
+        "B) x = -2 y x = -3",
+        "C) x = 1 y x = 4",
+        "D) x = -1 y x = -4"
+      ],
+      "correcta": "A",
+      "explicacion": "Usando la fórmula cuadrática o factorizando: (x-2)(x-3)=0, por lo tanto x = 2 o x = 3",
+      "materia": "M2",
+      "area_tematica": "Álgebra y Funciones",
+      "tema": "Ecuaciones de segundo grado",
+      "subtema": "Resolución de ecuaciones cuadráticas",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845972"
+    },
+    {
+      "id": "M2_006",
+      "texto": "¿Cuál es el valor de log₂ 8?",
+      "alternativas": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 8"
+      ],
+      "correcta": "B",
+      "explicacion": "log₂ 8 = 3 porque 2³ = 8",
+      "materia": "M2",
+      "area_tematica": "Números",
+      "tema": "Logaritmos",
+      "subtema": "Propiedades de los logaritmos",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845973"
+    },
+    {
+      "id": "M2_007",
+      "texto": "En un triángulo rectángulo, si sen θ = 0.6, ¿cuál es el valor de cos θ?",
+      "alternativas": [
+        "A) 0.6",
+        "B) 0.8",
+        "C) 0.5",
+        "D) 0.4"
+      ],
+      "correcta": "B",
+      "explicacion": "Por el teorema de Pitágoras: sen²θ + cos²θ = 1, entonces cos²θ = 1 - 0.6² = 0.64, por lo tanto cos θ = 0.8",
+      "materia": "M2",
+      "area_tematica": "Geometría",
+      "tema": "Razones trigonométricas",
+      "subtema": "Relaciones trigonométricas",
+      "dificultad": 3,
+      "created_at": "2025-03-22T18:07:00.845974"
+    },
+    {
+      "id": "M2_008",
+      "texto": "¿Cuál es la probabilidad de obtener suma 7 al lanzar dos dados?",
+      "alternativas": [
+        "A) 1/6",
+        "B) 5/36",
+        "C) 1/12",
+        "D) 1/9"
+      ],
+      "correcta": "A",
+      "explicacion": "Los casos favorables son (1,6), (2,5), (3,4), (4,3), (5,2), (6,1), total 6 casos de 36 posibles = 1/6",
+      "materia": "M2",
+      "area_tematica": "Probabilidad y Estadística",
+      "tema": "Probabilidad condicional",
+      "subtema": "Probabilidad en experimentos compuestos",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845975"
+    },
+    {
+      "id": "M2_009",
+      "texto": "¿Cuál es el área de un hexágono regular de lado 4 cm?",
+      "alternativas": [
+        "A) 24√3 cm²",
+        "B) 36√3 cm²",
+        "C) 48√3 cm²",
+        "D) 60√3 cm²"
+      ],
+      "correcta": "A",
+      "explicacion": "El área de un hexágono regular es (3√3/2)a², donde a es el lado. Por lo tanto, A = (3√3/2)(16) = 24√3 cm²",
+      "materia": "M2",
+      "area_tematica": "Geometría",
+      "tema": "Figuras geométricas",
+      "subtema": "Polígonos regulares",
+      "dificultad": 3,
+      "created_at": "2025-03-22T18:07:00.845976"
+    },
+    {
+      "id": "M2_010",
+      "texto": "¿Cuál es la solución del sistema de ecuaciones: x + y = 5, 2x - y = 4?",
+      "alternativas": [
+        "A) x = 3, y = 2",
+        "B) x = 2, y = 3",
+        "C) x = 4, y = 1",
+        "D) x = 1, y = 4"
+      ],
+      "correcta": "A",
+      "explicacion": "Sumando las ecuaciones: 3x = 9, entonces x = 3. Sustituyendo en x + y = 5: 3 + y = 5, entonces y = 2",
+      "materia": "M2",
+      "area_tematica": "Álgebra y Funciones",
+      "tema": "Sistemas de ecuaciones lineales",
+      "subtema": "Resolución de sistemas",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845977"
+    },
+    {
+      "id": "M2_011",
+      "texto": "Si f(x) = x² - 4x + 3, ¿cuál es el vértice de la parábola?",
+      "alternativas": [
+        "A) (2, -1)",
+        "B) (2, 1)",
+        "C) (-2, -1)",
+        "D) (-2, 1)"
+      ],
+      "correcta": "A",
+      "explicacion": "El vértice se encuentra en x = -b/(2a) = -(-4)/(2(1)) = 2. Evaluando f(2) = 4 - 8 + 3 = -1, por lo tanto el vértice es (2, -1)",
+      "materia": "M2",
+      "area_tematica": "Álgebra y Funciones",
+      "tema": "Ecuaciones de segundo grado",
+      "subtema": "Funciones cuadráticas",
+      "dificultad": 3,
+      "created_at": "2025-03-22T18:07:00.845978"
+    },
+    {
+      "id": "M2_012",
+      "texto": "¿Cuál es el valor de cos 60°?",
+      "alternativas": [
+        "A) 1/2",
+        "B) √3/2",
+        "C) 1/√2",
+        "D) 1/√3"
+      ],
+      "correcta": "A",
+      "explicacion": "El coseno de 60° es igual a 1/2, este es uno de los valores trigonométricos fundamentales",
+      "materia": "M2",
+      "area_tematica": "Geometría",
+      "tema": "Razones trigonométricas",
+      "subtema": "Valores trigonométricos notables",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845979"
+    }
+  ]
+}

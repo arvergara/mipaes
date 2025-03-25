@@ -1,0 +1,49 @@
+{
+  "prueba_id": "L_combined",
+  "estructura": {
+    "total_preguntas": 20,
+    "bloques": [
+      "Localizar",
+      "Interpretar",
+      "Evaluar"
+    ]
+  },
+  "preguntas": [
+    {
+      "id": "L_001",
+      "texto": "¿Qué figura literaria se utiliza en la frase 'Sus cabellos son de oro'?",
+      "alternativas": [
+        "A) Hipérbole",
+        "B) Metáfora",
+        "C) Símil",
+        "D) Personificación"
+      ],
+      "correcta": "B",
+      "explicacion": "Es una metáfora porque establece una identificación directa entre el cabello y el oro, sin usar 'como' o 'parece'",
+      "materia": "L",
+      "area_tematica": "Interpretar",
+      "tema": "Significado del texto",
+      "subtema": "Figuras literarias",
+      "dificultad": 1,
+      "created_at": "2025-03-22T18:07:00.845950"
+    },
+    {
+      "id": "L_002",
+      "texto": "¿Cuál es el núcleo del sujeto en la oración 'Los estudiantes de la universidad protestaron'?",
+      "alternativas": [
+        "A) Los",
+        "B) Estudiantes",
+        "C) Universidad",
+        "D) Protestaron"
+      ],
+      "correcta": "B",
+      "explicacion": "'Estudiantes' es el núcleo del sujeto porque es el sustantivo principal del que se habla en la oración",
+      "materia": "L",
+      "area_tematica": "Evaluar",
+      "tema": "Crítica del contenido",
+      "subtema": "Análisis sintáctico",
+      "dificultad": 2,
+      "created_at": "2025-03-22T18:07:00.845951"
+    }
+  ]
+}
