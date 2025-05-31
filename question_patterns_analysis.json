@@ -1,0 +1,6862 @@
+{
+  "CB": {
+    "count": 173,
+    "areas": {
+      "Organizacion, estructura y actividad celular": 41,
+      "Procesos y funciones biologicas": 43,
+      "Organismo y ambiente": 57,
+      "Herencia y evolucion": 32
+    },
+    "questionTypes": [
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "how_question",
+      "why_question",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "what_question"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 1,
+        "avgLength": 580
+      },
+      {
+        "count": 2,
+        "avgLength": 349
+      },
+      {
+        "count": 5,
+        "avgLength": 47.4
+      },
+      {
+        "count": 5,
+        "avgLength": 148.2
+      },
+      {
+        "count": 5,
+        "avgLength": 11.4
+      },
+      {
+        "count": 5,
+        "avgLength": 54.4
+      },
+      {
+        "count": 5,
+        "avgLength": 59
+      },
+      {
+        "count": 5,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 150.4
+      },
+      {
+        "count": 5,
+        "avgLength": 132.6
+      },
+      {
+        "count": 3,
+        "avgLength": 76.66666666666667
+      },
+      {
+        "count": 2,
+        "avgLength": 5.5
+      },
+      {
+        "count": 3,
+        "avgLength": 119.33333333333333
+      },
+      {
+        "count": 5,
+        "avgLength": 11
+      },
+      {
+        "count": 2,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 135.4
+      },
+      {
+        "count": 3,
+        "avgLength": 25.333333333333332
+      },
+      {
+        "count": 5,
+        "avgLength": 82.6
+      },
+      {
+        "count": 5,
+        "avgLength": 23
+      },
+      {
+        "count": 3,
+        "avgLength": 74
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 5,
+        "avgLength": 8.2
+      },
+      {
+        "count": 5,
+        "avgLength": 50.2
+      },
+      {
+        "count": 5,
+        "avgLength": 87.2
+      },
+      {
+        "count": 5,
+        "avgLength": 54.2
+      },
+      {
+        "count": 5,
+        "avgLength": 15
+      },
+      {
+        "count": 5,
+        "avgLength": 57.2
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 24.6
+      },
+      {
+        "count": 5,
+        "avgLength": 64.2
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 95.8
+      },
+      {
+        "count": 5,
+        "avgLength": 72.4
+      },
+      {
+        "count": 5,
+        "avgLength": 42.6
+      },
+      {
+        "count": 4,
+        "avgLength": 69.25
+      },
+      {
+        "count": 4,
+        "avgLength": 141.75
+      },
+      {
+        "count": 1,
+        "avgLength": 16
+      },
+      {
+        "count": 5,
+        "avgLength": 140.6
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 5.2
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 5,
+        "avgLength": 93.6
+      },
+      {
+        "count": 5,
+        "avgLength": 70.4
+      },
+      {
+        "count": 2,
+        "avgLength": 17
+      },
+      {
+        "count": 5,
+        "avgLength": 158.2
+      },
+      {
+        "count": 5,
+        "avgLength": 43.6
+      },
+      {
+        "count": 4,
+        "avgLength": 240.75
+      },
+      {
+        "count": 5,
+        "avgLength": 44.4
+      },
+      {
+        "count": 5,
+        "avgLength": 41.8
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 4,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 121.2
+      },
+      {
+        "count": 2,
+        "avgLength": 21.5
+      },
+      {
+        "count": 2,
+        "avgLength": 20
+      },
+      {
+        "count": 5,
+        "avgLength": 146.4
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 1,
+        "avgLength": 84
+      },
+      {
+        "count": 4,
+        "avgLength": 8.75
+      },
+      {
+        "count": 5,
+        "avgLength": 64.2
+      },
+      {
+        "count": 5,
+        "avgLength": 121.6
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 4,
+        "avgLength": 47.5
+      },
+      {
+        "count": 5,
+        "avgLength": 23.2
+      },
+      {
+        "count": 4,
+        "avgLength": 117
+      },
+      {
+        "count": 5,
+        "avgLength": 3
+      },
+      {
+        "count": 4,
+        "avgLength": 90.75
+      },
+      {
+        "count": 4,
+        "avgLength": 38.5
+      },
+      {
+        "count": 5,
+        "avgLength": 155
+      },
+      {
+        "count": 3,
+        "avgLength": 3.6666666666666665
+      },
+      {
+        "count": 4,
+        "avgLength": 93.25
+      },
+      {
+        "count": 5,
+        "avgLength": 60.8
+      },
+      {
+        "count": 4,
+        "avgLength": 215.5
+      },
+      {
+        "count": 2,
+        "avgLength": 209
+      },
+      {
+        "count": 5,
+        "avgLength": 163
+      },
+      {
+        "count": 5,
+        "avgLength": 91.2
+      },
+      {
+        "count": 5,
+        "avgLength": 7.8
+      },
+      {
+        "count": 5,
+        "avgLength": 116.6
+      },
+      {
+        "count": 5,
+        "avgLength": 34.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.4
+      },
+      {
+        "count": 5,
+        "avgLength": 54.8
+      },
+      {
+        "count": 5,
+        "avgLength": 7.6
+      },
+      {
+        "count": 5,
+        "avgLength": 100
+      },
+      {
+        "count": 5,
+        "avgLength": 119
+      },
+      {
+        "count": 2,
+        "avgLength": 93
+      },
+      {
+        "count": 1,
+        "avgLength": 72
+      },
+      {
+        "count": 2,
+        "avgLength": 121
+      },
+      {
+        "count": 5,
+        "avgLength": 136.6
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 2,
+        "avgLength": 17
+      },
+      {
+        "count": 5,
+        "avgLength": 13.8
+      },
+      {
+        "count": 4,
+        "avgLength": 100.5
+      },
+      {
+        "count": 4,
+        "avgLength": 128.25
+      },
+      {
+        "count": 5,
+        "avgLength": 157.8
+      },
+      {
+        "count": 4,
+        "avgLength": 109.25
+      },
+      {
+        "count": 4,
+        "avgLength": 140
+      },
+      {
+        "count": 2,
+        "avgLength": 219.5
+      },
+      {
+        "count": 4,
+        "avgLength": 23.75
+      },
+      {
+        "count": 4,
+        "avgLength": 97
+      },
+      {
+        "count": 5,
+        "avgLength": 45.4
+      },
+      {
+        "count": 5,
+        "avgLength": 10.8
+      },
+      {
+        "count": 4,
+        "avgLength": 12.5
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 4,
+        "avgLength": 30.75
+      },
+      {
+        "count": 4,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 305
+      },
+      {
+        "count": 5,
+        "avgLength": 20.6
+      },
+      {
+        "count": 4,
+        "avgLength": 132.25
+      },
+      {
+        "count": 4,
+        "avgLength": 76.5
+      },
+      {
+        "count": 4,
+        "avgLength": 44
+      },
+      {
+        "count": 4,
+        "avgLength": 104.25
+      },
+      {
+        "count": 5,
+        "avgLength": 4.4
+      },
+      {
+        "count": 4,
+        "avgLength": 59.5
+      },
+      {
+        "count": 5,
+        "avgLength": 3.8
+      },
+      {
+        "count": 5,
+        "avgLength": 292.2
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 4,
+        "avgLength": 106.5
+      },
+      {
+        "count": 1,
+        "avgLength": 229
+      },
+      {
+        "count": 4,
+        "avgLength": 241.25
+      },
+      {
+        "count": 2,
+        "avgLength": 5.5
+      },
+      {
+        "count": 4,
+        "avgLength": 139.75
+      },
+      {
+        "count": 4,
+        "avgLength": 77.75
+      },
+      {
+        "count": 5,
+        "avgLength": 74.6
+      },
+      {
+        "count": 4,
+        "avgLength": 49
+      },
+      {
+        "count": 4,
+        "avgLength": 160.75
+      },
+      {
+        "count": 5,
+        "avgLength": 154.2
+      },
+      {
+        "count": 4,
+        "avgLength": 166.75
+      },
+      {
+        "count": 4,
+        "avgLength": 58.5
+      },
+      {
+        "count": 4,
+        "avgLength": 116.5
+      },
+      {
+        "count": 4,
+        "avgLength": 124.25
+      },
+      {
+        "count": 4,
+        "avgLength": 80.75
+      },
+      {
+        "count": 4,
+        "avgLength": 109
+      },
+      {
+        "count": 4,
+        "avgLength": 144
+      },
+      {
+        "count": 4,
+        "avgLength": 36
+      },
+      {
+        "count": 4,
+        "avgLength": 40.5
+      },
+      {
+        "count": 3,
+        "avgLength": 188.33333333333334
+      },
+      {
+        "count": 2,
+        "avgLength": 9
+      },
+      {
+        "count": 2,
+        "avgLength": 7.5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 5,
+        "avgLength": 124
+      },
+      {
+        "count": 5,
+        "avgLength": 42.6
+      },
+      {
+        "count": 4,
+        "avgLength": 141.75
+      },
+      {
+        "count": 5,
+        "avgLength": 2
+      },
+      {
+        "count": 5,
+        "avgLength": 143.2
+      },
+      {
+        "count": 4,
+        "avgLength": 88.25
+      },
+      {
+        "count": 5,
+        "avgLength": 6.8
+      },
+      {
+        "count": 5,
+        "avgLength": 57.8
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 27.8
+      },
+      {
+        "count": 5,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 9.6
+      },
+      {
+        "count": 5,
+        "avgLength": 10.2
+      },
+      {
+        "count": 5,
+        "avgLength": 24.2
+      },
+      {
+        "count": 2,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 101.8
+      },
+      {
+        "count": 5,
+        "avgLength": 13.8
+      },
+      {
+        "count": 5,
+        "avgLength": 110.2
+      },
+      {
+        "count": 5,
+        "avgLength": 41.8
+      },
+      {
+        "count": 5,
+        "avgLength": 53.2
+      },
+      {
+        "count": 5,
+        "avgLength": 137.8
+      },
+      {
+        "count": 5,
+        "avgLength": 70.4
+      },
+      {
+        "count": 5,
+        "avgLength": 16
+      },
+      {
+        "count": 5,
+        "avgLength": 234
+      },
+      {
+        "count": 5,
+        "avgLength": 54.2
+      },
+      {
+        "count": 4,
+        "avgLength": 92.5
+      },
+      {
+        "count": 5,
+        "avgLength": 158
+      },
+      {
+        "count": 4,
+        "avgLength": 62
+      },
+      {
+        "count": 4,
+        "avgLength": 45
+      },
+      {
+        "count": 4,
+        "avgLength": 160
+      },
+      {
+        "count": 5,
+        "avgLength": 5.6
+      },
+      {
+        "count": 3,
+        "avgLength": 64
+      },
+      {
+        "count": 2,
+        "avgLength": 184.5
+      }
+    ],
+    "averageLength": 348,
+    "totalLength": 60136,
+    "keywords": [
+      "resultado",
+      "experimento",
+      "hipótesis",
+      "proceso",
+      "análisis",
+      "variable"
+    ],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "according_to": 19,
+      "multiple_choice": 128,
+      "what_question": 107,
+      "how_question": 18,
+      "visual_based": 39,
+      "why_question": 1
+    }
+  },
+  "CF": {
+    "count": 144,
+    "areas": {
+      "Ondas": 58,
+      "Mecanica": 27,
+      "Energia": 41,
+      "Electricidad": 18
+    },
+    "questionTypes": [
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "how_question",
+      "visual_based"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 1,
+        "avgLength": 578
+      },
+      {
+        "count": 5,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 150.4
+      },
+      {
+        "count": 5,
+        "avgLength": 132.6
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 2,
+        "avgLength": 5
+      },
+      {
+        "count": 3,
+        "avgLength": 120
+      },
+      {
+        "count": 5,
+        "avgLength": 11
+      },
+      {
+        "count": 2,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 60
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 47.4
+      },
+      {
+        "count": 5,
+        "avgLength": 148.2
+      },
+      {
+        "count": 5,
+        "avgLength": 11.4
+      },
+      {
+        "count": 5,
+        "avgLength": 54.4
+      },
+      {
+        "count": 5,
+        "avgLength": 78.4
+      },
+      {
+        "count": 5,
+        "avgLength": 135.4
+      },
+      {
+        "count": 3,
+        "avgLength": 25.333333333333332
+      },
+      {
+        "count": 5,
+        "avgLength": 82.6
+      },
+      {
+        "count": 5,
+        "avgLength": 23
+      },
+      {
+        "count": 3,
+        "avgLength": 74
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 5,
+        "avgLength": 8.2
+      },
+      {
+        "count": 5,
+        "avgLength": 50.2
+      },
+      {
+        "count": 5,
+        "avgLength": 87.2
+      },
+      {
+        "count": 5,
+        "avgLength": 54.2
+      },
+      {
+        "count": 5,
+        "avgLength": 8.4
+      },
+      {
+        "count": 5,
+        "avgLength": 69
+      },
+      {
+        "count": 5,
+        "avgLength": 3.6
+      },
+      {
+        "count": 5,
+        "avgLength": 46.4
+      },
+      {
+        "count": 5,
+        "avgLength": 91
+      },
+      {
+        "count": 5,
+        "avgLength": 72.8
+      },
+      {
+        "count": 3,
+        "avgLength": 5.666666666666667
+      },
+      {
+        "count": 5,
+        "avgLength": 2
+      },
+      {
+        "count": 5,
+        "avgLength": 85
+      },
+      {
+        "count": 5,
+        "avgLength": 7.4
+      },
+      {
+        "count": 5,
+        "avgLength": 4.2
+      },
+      {
+        "count": 5,
+        "avgLength": 27.2
+      },
+      {
+        "count": 5,
+        "avgLength": 6.4
+      },
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 26.4
+      },
+      {
+        "count": 5,
+        "avgLength": 44.2
+      },
+      {
+        "count": 4,
+        "avgLength": 71.25
+      },
+      {
+        "count": 4,
+        "avgLength": 143.25
+      },
+      {
+        "count": 5,
+        "avgLength": 3.8
+      },
+      {
+        "count": 5,
+        "avgLength": 140.4
+      },
+      {
+        "count": 5,
+        "avgLength": 10.4
+      },
+      {
+        "count": 5,
+        "avgLength": 24.2
+      },
+      {
+        "count": 2,
+        "avgLength": 8.5
+      },
+      {
+        "count": 5,
+        "avgLength": 101.8
+      },
+      {
+        "count": 5,
+        "avgLength": 14
+      },
+      {
+        "count": 5,
+        "avgLength": 110.8
+      },
+      {
+        "count": 5,
+        "avgLength": 47.6
+      },
+      {
+        "count": 5,
+        "avgLength": 1.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.4
+      },
+      {
+        "count": 4,
+        "avgLength": 4.5
+      },
+      {
+        "count": 5,
+        "avgLength": 18.2
+      },
+      {
+        "count": 3,
+        "avgLength": 6
+      },
+      {
+        "count": 3,
+        "avgLength": 34.666666666666664
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 84
+      },
+      {
+        "count": 5,
+        "avgLength": 98.6
+      },
+      {
+        "count": 4,
+        "avgLength": 75.25
+      },
+      {
+        "count": 5,
+        "avgLength": 5.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 130.6
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 5,
+        "avgLength": 50.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.4
+      },
+      {
+        "count": 5,
+        "avgLength": 82.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 122.6
+      },
+      {
+        "count": 5,
+        "avgLength": 147.6
+      },
+      {
+        "count": 4,
+        "avgLength": 92.25
+      },
+      {
+        "count": 4,
+        "avgLength": 40.5
+      },
+      {
+        "count": 5,
+        "avgLength": 97
+      },
+      {
+        "count": 4,
+        "avgLength": 94.75
+      },
+      {
+        "count": 5,
+        "avgLength": 86.6
+      },
+      {
+        "count": 5,
+        "avgLength": 62.8
+      },
+      {
+        "count": 2,
+        "avgLength": 20
+      },
+      {
+        "count": 5,
+        "avgLength": 11.8
+      },
+      {
+        "count": 2,
+        "avgLength": 12.5
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 4,
+        "avgLength": 64
+      },
+      {
+        "count": 5,
+        "avgLength": 21.8
+      },
+      {
+        "count": 4,
+        "avgLength": 78
+      },
+      {
+        "count": 4,
+        "avgLength": 130
+      },
+      {
+        "count": 4,
+        "avgLength": 141.5
+      },
+      {
+        "count": 4,
+        "avgLength": 111.5
+      },
+      {
+        "count": 4,
+        "avgLength": 25.25
+      },
+      {
+        "count": 5,
+        "avgLength": 5.6
+      },
+      {
+        "count": 5,
+        "avgLength": 6.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 10
+      },
+      {
+        "count": 5,
+        "avgLength": 4.4
+      },
+      {
+        "count": 5,
+        "avgLength": 5.2
+      },
+      {
+        "count": 5,
+        "avgLength": 4.2
+      },
+      {
+        "count": 5,
+        "avgLength": 27.2
+      },
+      {
+        "count": 5,
+        "avgLength": 6.4
+      },
+      {
+        "count": 5,
+        "avgLength": 9.6
+      },
+      {
+        "count": 5,
+        "avgLength": 26.4
+      },
+      {
+        "count": 5,
+        "avgLength": 44.4
+      },
+      {
+        "count": 4,
+        "avgLength": 71.25
+      },
+      {
+        "count": 4,
+        "avgLength": 143.25
+      },
+      {
+        "count": 5,
+        "avgLength": 3.8
+      },
+      {
+        "count": 5,
+        "avgLength": 143
+      },
+      {
+        "count": 5,
+        "avgLength": 10.2
+      },
+      {
+        "count": 5,
+        "avgLength": 24.2
+      },
+      {
+        "count": 2,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 101.8
+      },
+      {
+        "count": 5,
+        "avgLength": 13.8
+      },
+      {
+        "count": 5,
+        "avgLength": 110.2
+      },
+      {
+        "count": 5,
+        "avgLength": 47.6
+      },
+      {
+        "count": 5,
+        "avgLength": 1.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.4
+      },
+      {
+        "count": 4,
+        "avgLength": 4.5
+      },
+      {
+        "count": 5,
+        "avgLength": 18.2
+      },
+      {
+        "count": 5,
+        "avgLength": 3.6
+      },
+      {
+        "count": 3,
+        "avgLength": 35
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 84
+      },
+      {
+        "count": 5,
+        "avgLength": 98.6
+      },
+      {
+        "count": 4,
+        "avgLength": 75.25
+      },
+      {
+        "count": 5,
+        "avgLength": 23.8
+      },
+      {
+        "count": 5,
+        "avgLength": 4.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 130.4
+      },
+      {
+        "count": 4,
+        "avgLength": 74.5
+      },
+      {
+        "count": 4,
+        "avgLength": 108.75
+      },
+      {
+        "count": 4,
+        "avgLength": 92.5
+      },
+      {
+        "count": 4,
+        "avgLength": 45
+      },
+      {
+        "count": 4,
+        "avgLength": 160
+      },
+      {
+        "count": 5,
+        "avgLength": 4
+      },
+      {
+        "count": 4,
+        "avgLength": 263
+      },
+      {
+        "count": 3,
+        "avgLength": 56
+      },
+      {
+        "count": 4,
+        "avgLength": 117.75
+      },
+      {
+        "count": 4,
+        "avgLength": 41.75
+      },
+      {
+        "count": 4,
+        "avgLength": 40.5
+      }
+    ],
+    "averageLength": 346,
+    "totalLength": 49846,
+    "keywords": [
+      "experimento",
+      "hipótesis",
+      "resultado",
+      "proceso",
+      "análisis",
+      "variable"
+    ],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "multiple_choice": 108,
+      "what_question": 102,
+      "visual_based": 38,
+      "how_question": 18,
+      "according_to": 6
+    }
+  },
+  "CQ": {
+    "count": 115,
+    "areas": {
+      "Estructura atomica": 77,
+      "Quimica organica": 35,
+      "Reacciones quimicas y estequiometria": 3
+    },
+    "questionTypes": [
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 5,
+        "avgLength": 82.6
+      },
+      {
+        "count": 5,
+        "avgLength": 51.8
+      },
+      {
+        "count": 5,
+        "avgLength": 55.4
+      },
+      {
+        "count": 5,
+        "avgLength": 4.2
+      },
+      {
+        "count": 5,
+        "avgLength": 151.6
+      },
+      {
+        "count": 5,
+        "avgLength": 55.8
+      },
+      {
+        "count": 5,
+        "avgLength": 73.2
+      },
+      {
+        "count": 5,
+        "avgLength": 4.8
+      },
+      {
+        "count": 5,
+        "avgLength": 12.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5
+      },
+      {
+        "count": 5,
+        "avgLength": 48.6
+      },
+      {
+        "count": 5,
+        "avgLength": 12.6
+      },
+      {
+        "count": 3,
+        "avgLength": 95.33333333333333
+      },
+      {
+        "count": 5,
+        "avgLength": 79.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 19
+      },
+      {
+        "count": 5,
+        "avgLength": 5.6
+      },
+      {
+        "count": 5,
+        "avgLength": 20
+      },
+      {
+        "count": 5,
+        "avgLength": 22.8
+      },
+      {
+        "count": 5,
+        "avgLength": 125.8
+      },
+      {
+        "count": 5,
+        "avgLength": 59.4
+      },
+      {
+        "count": 5,
+        "avgLength": 103.2
+      },
+      {
+        "count": 5,
+        "avgLength": 79.4
+      },
+      {
+        "count": 5,
+        "avgLength": 76.8
+      },
+      {
+        "count": 5,
+        "avgLength": 59.4
+      },
+      {
+        "count": 5,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 40.6
+      },
+      {
+        "count": 5,
+        "avgLength": 101.2
+      },
+      {
+        "count": 5,
+        "avgLength": 13.8
+      },
+      {
+        "count": 5,
+        "avgLength": 111
+      },
+      {
+        "count": 4,
+        "avgLength": 87.5
+      },
+      {
+        "count": 5,
+        "avgLength": 70.8
+      },
+      {
+        "count": 5,
+        "avgLength": 57.8
+      },
+      {
+        "count": 5,
+        "avgLength": 5.2
+      },
+      {
+        "count": 5,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 27.2
+      },
+      {
+        "count": 5,
+        "avgLength": 6.2
+      },
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 26.4
+      },
+      {
+        "count": 5,
+        "avgLength": 44.2
+      },
+      {
+        "count": 4,
+        "avgLength": 71.5
+      },
+      {
+        "count": 4,
+        "avgLength": 143
+      },
+      {
+        "count": 5,
+        "avgLength": 3.6
+      },
+      {
+        "count": 5,
+        "avgLength": 140.6
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 36.2
+      },
+      {
+        "count": 3,
+        "avgLength": 5
+      },
+      {
+        "count": 3,
+        "avgLength": 7.333333333333333
+      },
+      {
+        "count": 5,
+        "avgLength": 20.8
+      },
+      {
+        "count": 5,
+        "avgLength": 28.8
+      },
+      {
+        "count": 5,
+        "avgLength": 18.6
+      },
+      {
+        "count": 5,
+        "avgLength": 86.6
+      },
+      {
+        "count": 5,
+        "avgLength": 11.8
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 4.8
+      },
+      {
+        "count": 5,
+        "avgLength": 95.8
+      },
+      {
+        "count": 4,
+        "avgLength": 94.75
+      },
+      {
+        "count": 4,
+        "avgLength": 11
+      },
+      {
+        "count": 4,
+        "avgLength": 53
+      },
+      {
+        "count": 5,
+        "avgLength": 122.8
+      },
+      {
+        "count": 5,
+        "avgLength": 50.4
+      },
+      {
+        "count": 5,
+        "avgLength": 82.6
+      },
+      {
+        "count": 5,
+        "avgLength": 4.6
+      },
+      {
+        "count": 5,
+        "avgLength": 122.8
+      },
+      {
+        "count": 5,
+        "avgLength": 148
+      },
+      {
+        "count": 4,
+        "avgLength": 98
+      },
+      {
+        "count": 5,
+        "avgLength": 9.6
+      },
+      {
+        "count": 4,
+        "avgLength": 135.25
+      },
+      {
+        "count": 4,
+        "avgLength": 35
+      },
+      {
+        "count": 5,
+        "avgLength": 6.8
+      },
+      {
+        "count": 5,
+        "avgLength": 46.6
+      },
+      {
+        "count": 4,
+        "avgLength": 11
+      },
+      {
+        "count": 5,
+        "avgLength": 22
+      },
+      {
+        "count": 4,
+        "avgLength": 78.25
+      },
+      {
+        "count": 4,
+        "avgLength": 141.5
+      },
+      {
+        "count": 4,
+        "avgLength": 111.75
+      },
+      {
+        "count": 4,
+        "avgLength": 25.25
+      },
+      {
+        "count": 2,
+        "avgLength": 13
+      },
+      {
+        "count": 5,
+        "avgLength": 33.2
+      },
+      {
+        "count": 5,
+        "avgLength": 40.6
+      },
+      {
+        "count": 5,
+        "avgLength": 101.2
+      },
+      {
+        "count": 5,
+        "avgLength": 13.8
+      },
+      {
+        "count": 5,
+        "avgLength": 110.4
+      },
+      {
+        "count": 4,
+        "avgLength": 87.5
+      },
+      {
+        "count": 5,
+        "avgLength": 4.4
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 57.8
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 27.2
+      },
+      {
+        "count": 5,
+        "avgLength": 6.6
+      },
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 26.4
+      },
+      {
+        "count": 5,
+        "avgLength": 44.2
+      },
+      {
+        "count": 4,
+        "avgLength": 71.25
+      },
+      {
+        "count": 4,
+        "avgLength": 143
+      },
+      {
+        "count": 5,
+        "avgLength": 3.6
+      },
+      {
+        "count": 5,
+        "avgLength": 143.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.8
+      },
+      {
+        "count": 5,
+        "avgLength": 36.2
+      },
+      {
+        "count": 3,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 20.8
+      },
+      {
+        "count": 5,
+        "avgLength": 28.8
+      },
+      {
+        "count": 5,
+        "avgLength": 19
+      },
+      {
+        "count": 5,
+        "avgLength": 86.6
+      },
+      {
+        "count": 5,
+        "avgLength": 10.8
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 4.8
+      },
+      {
+        "count": 5,
+        "avgLength": 2.6
+      },
+      {
+        "count": 5,
+        "avgLength": 157
+      },
+      {
+        "count": 4,
+        "avgLength": 92.75
+      },
+      {
+        "count": 4,
+        "avgLength": 3.5
+      },
+      {
+        "count": 5,
+        "avgLength": 9.2
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 4,
+        "avgLength": 41.75
+      }
+    ],
+    "averageLength": 339,
+    "totalLength": 38948,
+    "keywords": [
+      "proceso",
+      "experimento",
+      "hipótesis",
+      "resultado",
+      "análisis",
+      "variable"
+    ],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "multiple_choice": 81,
+      "what_question": 78,
+      "visual_based": 26,
+      "how_question": 9,
+      "according_to": 5
+    }
+  },
+  "H": {
+    "count": 103,
+    "areas": {
+      "Historia": 87,
+      "Sistema Economico": 14,
+      "Formacion Ciudadana": 2
+    },
+    "questionTypes": [
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "how_question",
+      "why_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "why_question",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 5,
+        "avgLength": 48.2
+      },
+      {
+        "count": 5,
+        "avgLength": 55
+      },
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 63.4
+      },
+      {
+        "count": 5,
+        "avgLength": 106.8
+      },
+      {
+        "count": 5,
+        "avgLength": 145.8
+      },
+      {
+        "count": 5,
+        "avgLength": 47.2
+      },
+      {
+        "count": 5,
+        "avgLength": 108.2
+      },
+      {
+        "count": 5,
+        "avgLength": 179
+      },
+      {
+        "count": 5,
+        "avgLength": 127.6
+      },
+      {
+        "count": 5,
+        "avgLength": 80.8
+      },
+      {
+        "count": 5,
+        "avgLength": 208.8
+      },
+      {
+        "count": 5,
+        "avgLength": 335.8
+      },
+      {
+        "count": 5,
+        "avgLength": 81.8
+      },
+      {
+        "count": 5,
+        "avgLength": 99
+      },
+      {
+        "count": 5,
+        "avgLength": 98
+      },
+      {
+        "count": 5,
+        "avgLength": 108.6
+      },
+      {
+        "count": 5,
+        "avgLength": 211.8
+      },
+      {
+        "count": 5,
+        "avgLength": 238.6
+      },
+      {
+        "count": 5,
+        "avgLength": 84.6
+      },
+      {
+        "count": 5,
+        "avgLength": 84.4
+      },
+      {
+        "count": 5,
+        "avgLength": 86.2
+      },
+      {
+        "count": 5,
+        "avgLength": 44.8
+      },
+      {
+        "count": 5,
+        "avgLength": 243
+      },
+      {
+        "count": 5,
+        "avgLength": 159.4
+      },
+      {
+        "count": 5,
+        "avgLength": 205
+      },
+      {
+        "count": 5,
+        "avgLength": 199
+      },
+      {
+        "count": 5,
+        "avgLength": 165.4
+      },
+      {
+        "count": 5,
+        "avgLength": 102.2
+      },
+      {
+        "count": 5,
+        "avgLength": 65.6
+      },
+      {
+        "count": 5,
+        "avgLength": 59.8
+      },
+      {
+        "count": 5,
+        "avgLength": 55.4
+      },
+      {
+        "count": 5,
+        "avgLength": 61
+      },
+      {
+        "count": 5,
+        "avgLength": 95.2
+      },
+      {
+        "count": 5,
+        "avgLength": 189.6
+      },
+      {
+        "count": 5,
+        "avgLength": 86.2
+      },
+      {
+        "count": 5,
+        "avgLength": 40.8
+      },
+      {
+        "count": 5,
+        "avgLength": 228.6
+      },
+      {
+        "count": 5,
+        "avgLength": 60.2
+      },
+      {
+        "count": 5,
+        "avgLength": 199
+      },
+      {
+        "count": 5,
+        "avgLength": 46.2
+      },
+      {
+        "count": 5,
+        "avgLength": 83.6
+      },
+      {
+        "count": 5,
+        "avgLength": 35.2
+      },
+      {
+        "count": 5,
+        "avgLength": 88
+      },
+      {
+        "count": 5,
+        "avgLength": 60.8
+      },
+      {
+        "count": 5,
+        "avgLength": 108.6
+      },
+      {
+        "count": 5,
+        "avgLength": 89.4
+      },
+      {
+        "count": 5,
+        "avgLength": 90.2
+      },
+      {
+        "count": 5,
+        "avgLength": 90
+      },
+      {
+        "count": 5,
+        "avgLength": 65
+      },
+      {
+        "count": 5,
+        "avgLength": 119
+      },
+      {
+        "count": 5,
+        "avgLength": 101.8
+      },
+      {
+        "count": 5,
+        "avgLength": 91.6
+      },
+      {
+        "count": 5,
+        "avgLength": 104
+      },
+      {
+        "count": 5,
+        "avgLength": 91.6
+      },
+      {
+        "count": 5,
+        "avgLength": 217
+      },
+      {
+        "count": 5,
+        "avgLength": 65
+      },
+      {
+        "count": 5,
+        "avgLength": 213.6
+      },
+      {
+        "count": 5,
+        "avgLength": 157.6
+      },
+      {
+        "count": 5,
+        "avgLength": 112.6
+      },
+      {
+        "count": 5,
+        "avgLength": 203.6
+      },
+      {
+        "count": 5,
+        "avgLength": 93.6
+      },
+      {
+        "count": 5,
+        "avgLength": 80
+      },
+      {
+        "count": 5,
+        "avgLength": 311.4
+      },
+      {
+        "count": 5,
+        "avgLength": 67.8
+      },
+      {
+        "count": 5,
+        "avgLength": 84
+      },
+      {
+        "count": 5,
+        "avgLength": 75.8
+      },
+      {
+        "count": 5,
+        "avgLength": 56
+      },
+      {
+        "count": 4,
+        "avgLength": 215.25
+      },
+      {
+        "count": 5,
+        "avgLength": 65.8
+      },
+      {
+        "count": 5,
+        "avgLength": 100
+      },
+      {
+        "count": 5,
+        "avgLength": 171.2
+      },
+      {
+        "count": 5,
+        "avgLength": 40.8
+      },
+      {
+        "count": 5,
+        "avgLength": 59.2
+      },
+      {
+        "count": 5,
+        "avgLength": 102.2
+      },
+      {
+        "count": 5,
+        "avgLength": 92.4
+      },
+      {
+        "count": 5,
+        "avgLength": 68.8
+      },
+      {
+        "count": 5,
+        "avgLength": 85.4
+      },
+      {
+        "count": 4,
+        "avgLength": 25.75
+      },
+      {
+        "count": 4,
+        "avgLength": 44.75
+      },
+      {
+        "count": 4,
+        "avgLength": 63.5
+      },
+      {
+        "count": 4,
+        "avgLength": 66.25
+      },
+      {
+        "count": 5,
+        "avgLength": 243
+      },
+      {
+        "count": 5,
+        "avgLength": 48.4
+      },
+      {
+        "count": 5,
+        "avgLength": 206
+      },
+      {
+        "count": 5,
+        "avgLength": 199
+      },
+      {
+        "count": 5,
+        "avgLength": 165.2
+      },
+      {
+        "count": 5,
+        "avgLength": 102.2
+      },
+      {
+        "count": 5,
+        "avgLength": 65.6
+      },
+      {
+        "count": 5,
+        "avgLength": 59.8
+      },
+      {
+        "count": 5,
+        "avgLength": 55.4
+      },
+      {
+        "count": 5,
+        "avgLength": 61
+      },
+      {
+        "count": 5,
+        "avgLength": 95.2
+      },
+      {
+        "count": 5,
+        "avgLength": 190.4
+      },
+      {
+        "count": 5,
+        "avgLength": 86.2
+      },
+      {
+        "count": 5,
+        "avgLength": 40.8
+      },
+      {
+        "count": 5,
+        "avgLength": 110.2
+      },
+      {
+        "count": 5,
+        "avgLength": 60.2
+      },
+      {
+        "count": 5,
+        "avgLength": 199
+      },
+      {
+        "count": 5,
+        "avgLength": 46.2
+      },
+      {
+        "count": 4,
+        "avgLength": 236
+      },
+      {
+        "count": 4,
+        "avgLength": 85
+      },
+      {
+        "count": 4,
+        "avgLength": 70.25
+      }
+    ],
+    "averageLength": 533,
+    "totalLength": 54941,
+    "keywords": [],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "multiple_choice": 64,
+      "what_question": 80,
+      "how_question": 32,
+      "according_to": 7,
+      "visual_based": 6,
+      "why_question": 2
+    }
+  },
+  "M1": {
+    "count": 318,
+    "areas": {
+      "Numeros": 306,
+      "Probabilidad y Estadistica": 4,
+      "Geometria": 8
+    },
+    "questionTypes": [
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "visual_based",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 5,
+        "avgLength": 233
+      },
+      {
+        "count": 5,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 13
+      },
+      {
+        "count": 5,
+        "avgLength": 63.4
+      },
+      {
+        "count": 2,
+        "avgLength": 3.5
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 2,
+        "avgLength": 74
+      },
+      {
+        "count": 1,
+        "avgLength": 38
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 3,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 37.6
+      },
+      {
+        "count": 5,
+        "avgLength": 6.2
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 2,
+        "avgLength": 6
+      },
+      {
+        "count": 2,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 57.6
+      },
+      {
+        "count": 5,
+        "avgLength": 8.8
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 48.6
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 5,
+        "avgLength": 48.6
+      },
+      {
+        "count": 5,
+        "avgLength": 10
+      },
+      {
+        "count": 2,
+        "avgLength": 13
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 5.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.8
+      },
+      {
+        "count": 4,
+        "avgLength": 17.5
+      },
+      {
+        "count": 3,
+        "avgLength": 22.333333333333332
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 100.4
+      },
+      {
+        "count": 5,
+        "avgLength": 33
+      },
+      {
+        "count": 5,
+        "avgLength": 10
+      },
+      {
+        "count": 1,
+        "avgLength": 71
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 1,
+        "avgLength": 140
+      },
+      {
+        "count": 5,
+        "avgLength": 8.4
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 1
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 2,
+        "avgLength": 167.5
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 5,
+        "avgLength": 227.2
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 60.2
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 33
+      },
+      {
+        "count": 5,
+        "avgLength": 77
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 76.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.2
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 2,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 11
+      },
+      {
+        "count": 1,
+        "avgLength": 21
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 1.8
+      },
+      {
+        "count": 5,
+        "avgLength": 39.6
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 5,
+        "avgLength": 95.6
+      },
+      {
+        "count": 2,
+        "avgLength": 105.5
+      },
+      {
+        "count": 5,
+        "avgLength": 6.4
+      },
+      {
+        "count": 5,
+        "avgLength": 29.2
+      },
+      {
+        "count": 4,
+        "avgLength": 4.25
+      },
+      {
+        "count": 5,
+        "avgLength": 7.6
+      },
+      {
+        "count": 5,
+        "avgLength": 9.6
+      },
+      {
+        "count": 3,
+        "avgLength": 18
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 5,
+        "avgLength": 14.8
+      },
+      {
+        "count": 1,
+        "avgLength": 95
+      },
+      {
+        "count": 5,
+        "avgLength": 26
+      },
+      {
+        "count": 5,
+        "avgLength": 38.8
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 2,
+        "avgLength": 65.5
+      },
+      {
+        "count": 5,
+        "avgLength": 49.4
+      },
+      {
+        "count": 1,
+        "avgLength": 189
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 5,
+        "avgLength": 43
+      },
+      {
+        "count": 5,
+        "avgLength": 108.2
+      },
+      {
+        "count": 5,
+        "avgLength": 7.8
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 1,
+        "avgLength": 17
+      },
+      {
+        "count": 1,
+        "avgLength": 42
+      },
+      {
+        "count": 1,
+        "avgLength": 25
+      },
+      {
+        "count": 5,
+        "avgLength": 11.4
+      },
+      {
+        "count": 1,
+        "avgLength": 53
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 2,
+        "avgLength": 648
+      },
+      {
+        "count": 1,
+        "avgLength": 573
+      },
+      {
+        "count": 2,
+        "avgLength": 425
+      },
+      {
+        "count": 5,
+        "avgLength": 44.2
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 3,
+        "avgLength": 18.666666666666668
+      },
+      {
+        "count": 3,
+        "avgLength": 15.333333333333334
+      },
+      {
+        "count": 5,
+        "avgLength": 31.6
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 4,
+        "avgLength": 13.5
+      },
+      {
+        "count": 4,
+        "avgLength": 4.5
+      },
+      {
+        "count": 5,
+        "avgLength": 133
+      },
+      {
+        "count": 1,
+        "avgLength": 16
+      },
+      {
+        "count": 5,
+        "avgLength": 4.2
+      },
+      {
+        "count": 4,
+        "avgLength": 1.25
+      },
+      {
+        "count": 2,
+        "avgLength": 4.5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 5,
+        "avgLength": 9.2
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 1,
+        "avgLength": 14
+      },
+      {
+        "count": 4,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 63.8
+      },
+      {
+        "count": 2,
+        "avgLength": 4.5
+      },
+      {
+        "count": 5,
+        "avgLength": 9.6
+      },
+      {
+        "count": 4,
+        "avgLength": 74.75
+      },
+      {
+        "count": 5,
+        "avgLength": 12.2
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 5,
+        "avgLength": 5.2
+      },
+      {
+        "count": 4,
+        "avgLength": 8.5
+      },
+      {
+        "count": 4,
+        "avgLength": 8.25
+      },
+      {
+        "count": 4,
+        "avgLength": 45.5
+      },
+      {
+        "count": 5,
+        "avgLength": 23.4
+      },
+      {
+        "count": 1,
+        "avgLength": 140
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 7.4
+      },
+      {
+        "count": 3,
+        "avgLength": 87
+      },
+      {
+        "count": 2,
+        "avgLength": 64.5
+      },
+      {
+        "count": 1,
+        "avgLength": 226
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 71.6
+      },
+      {
+        "count": 5,
+        "avgLength": 23.4
+      },
+      {
+        "count": 2,
+        "avgLength": 1064
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 4,
+        "avgLength": 56
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 3,
+        "avgLength": 21.666666666666668
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 14
+      },
+      {
+        "count": 5,
+        "avgLength": 17.2
+      },
+      {
+        "count": 4,
+        "avgLength": 8.5
+      },
+      {
+        "count": 4,
+        "avgLength": 50.75
+      },
+      {
+        "count": 5,
+        "avgLength": 84.8
+      },
+      {
+        "count": 1,
+        "avgLength": 60
+      },
+      {
+        "count": 4,
+        "avgLength": 52.75
+      },
+      {
+        "count": 4,
+        "avgLength": 3.25
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 2,
+        "avgLength": 1064
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 4,
+        "avgLength": 56
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 3,
+        "avgLength": 21.666666666666668
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 14
+      },
+      {
+        "count": 5,
+        "avgLength": 17.2
+      },
+      {
+        "count": 4,
+        "avgLength": 8.5
+      },
+      {
+        "count": 4,
+        "avgLength": 50.75
+      },
+      {
+        "count": 5,
+        "avgLength": 84.8
+      },
+      {
+        "count": 1,
+        "avgLength": 60
+      },
+      {
+        "count": 4,
+        "avgLength": 52.75
+      },
+      {
+        "count": 4,
+        "avgLength": 3.25
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 2,
+        "avgLength": 434.5
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 24.8
+      },
+      {
+        "count": 4,
+        "avgLength": 9.75
+      },
+      {
+        "count": 4,
+        "avgLength": 86.5
+      },
+      {
+        "count": 2,
+        "avgLength": 6.5
+      },
+      {
+        "count": 4,
+        "avgLength": 74.25
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 4,
+        "avgLength": 23.25
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 1,
+        "avgLength": 12
+      },
+      {
+        "count": 1,
+        "avgLength": 11
+      },
+      {
+        "count": 3,
+        "avgLength": 19
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.6
+      },
+      {
+        "count": 4,
+        "avgLength": 82.5
+      },
+      {
+        "count": 1,
+        "avgLength": 21
+      },
+      {
+        "count": 1,
+        "avgLength": 24
+      },
+      {
+        "count": 1,
+        "avgLength": 41
+      },
+      {
+        "count": 5,
+        "avgLength": 23.4
+      },
+      {
+        "count": 4,
+        "avgLength": 5.75
+      },
+      {
+        "count": 4,
+        "avgLength": 4
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 3.75
+      },
+      {
+        "count": 5,
+        "avgLength": 9.2
+      },
+      {
+        "count": 5,
+        "avgLength": 5.6
+      },
+      {
+        "count": 4,
+        "avgLength": 6.25
+      },
+      {
+        "count": 4,
+        "avgLength": 4.75
+      },
+      {
+        "count": 5,
+        "avgLength": 7.8
+      },
+      {
+        "count": 3,
+        "avgLength": 68.33333333333333
+      },
+      {
+        "count": 1,
+        "avgLength": 62
+      },
+      {
+        "count": 1,
+        "avgLength": 299
+      },
+      {
+        "count": 1,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 9.2
+      },
+      {
+        "count": 1,
+        "avgLength": 52
+      },
+      {
+        "count": 2,
+        "avgLength": 10
+      },
+      {
+        "count": 2,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 26
+      },
+      {
+        "count": 4,
+        "avgLength": 43
+      },
+      {
+        "count": 4,
+        "avgLength": 89.5
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 72
+      },
+      {
+        "count": 5,
+        "avgLength": 134.4
+      },
+      {
+        "count": 2,
+        "avgLength": 1064
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 4,
+        "avgLength": 56
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 3,
+        "avgLength": 21.666666666666668
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 14
+      },
+      {
+        "count": 5,
+        "avgLength": 17.2
+      },
+      {
+        "count": 4,
+        "avgLength": 8.5
+      },
+      {
+        "count": 4,
+        "avgLength": 53
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 5,
+        "avgLength": 84.8
+      },
+      {
+        "count": 1,
+        "avgLength": 60
+      },
+      {
+        "count": 4,
+        "avgLength": 52.75
+      },
+      {
+        "count": 4,
+        "avgLength": 3.25
+      },
+      {
+        "count": 1,
+        "avgLength": 11
+      },
+      {
+        "count": 2,
+        "avgLength": 1356
+      },
+      {
+        "count": 4,
+        "avgLength": 61
+      },
+      {
+        "count": 4,
+        "avgLength": 119.5
+      },
+      {
+        "count": 4,
+        "avgLength": 3.5
+      },
+      {
+        "count": 1,
+        "avgLength": 12
+      },
+      {
+        "count": 4,
+        "avgLength": 34.5
+      },
+      {
+        "count": 4,
+        "avgLength": 2.75
+      },
+      {
+        "count": 4,
+        "avgLength": 7
+      },
+      {
+        "count": 1,
+        "avgLength": 9
+      },
+      {
+        "count": 1,
+        "avgLength": 10
+      },
+      {
+        "count": 1,
+        "avgLength": 12
+      },
+      {
+        "count": 4,
+        "avgLength": 41
+      },
+      {
+        "count": 4,
+        "avgLength": 50.25
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 3,
+        "avgLength": 189
+      },
+      {
+        "count": 4,
+        "avgLength": 3
+      },
+      {
+        "count": 1,
+        "avgLength": 138
+      },
+      {
+        "count": 3,
+        "avgLength": 12.666666666666666
+      },
+      {
+        "count": 2,
+        "avgLength": 19
+      },
+      {
+        "count": 2,
+        "avgLength": 21.5
+      },
+      {
+        "count": 1,
+        "avgLength": 23
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 16
+      },
+      {
+        "count": 2,
+        "avgLength": 16.5
+      },
+      {
+        "count": 4,
+        "avgLength": 156
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 4,
+        "avgLength": 49.75
+      },
+      {
+        "count": 4,
+        "avgLength": 7.5
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 4,
+        "avgLength": 10.25
+      },
+      {
+        "count": 3,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 2,
+        "avgLength": 97.5
+      },
+      {
+        "count": 4,
+        "avgLength": 4.75
+      },
+      {
+        "count": 4,
+        "avgLength": 6
+      },
+      {
+        "count": 4,
+        "avgLength": 48
+      },
+      {
+        "count": 3,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 113.5
+      },
+      {
+        "count": 4,
+        "avgLength": 107.25
+      },
+      {
+        "count": 4,
+        "avgLength": 41.75
+      },
+      {
+        "count": 3,
+        "avgLength": 11.333333333333334
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 66
+      },
+      {
+        "count": 1,
+        "avgLength": 177
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 28.75
+      },
+      {
+        "count": 4,
+        "avgLength": 95
+      },
+      {
+        "count": 1,
+        "avgLength": 19
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 2,
+        "avgLength": 21.5
+      },
+      {
+        "count": 4,
+        "avgLength": 10.75
+      },
+      {
+        "count": 1,
+        "avgLength": 12
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 1,
+        "avgLength": 19
+      },
+      {
+        "count": 1,
+        "avgLength": 23
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 2,
+        "avgLength": 16
+      },
+      {
+        "count": 1,
+        "avgLength": 21
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 9
+      },
+      {
+        "count": 1,
+        "avgLength": 3
+      },
+      {
+        "count": 4,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 6
+      },
+      {
+        "count": 4,
+        "avgLength": 7.25
+      },
+      {
+        "count": 4,
+        "avgLength": 8.75
+      },
+      {
+        "count": 4,
+        "avgLength": 43
+      },
+      {
+        "count": 4,
+        "avgLength": 79.5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 3,
+        "avgLength": 15.666666666666666
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      }
+    ],
+    "averageLength": 218,
+    "totalLength": 69286,
+    "keywords": [
+      "ecuación",
+      "valor",
+      "determina",
+      "función",
+      "variable",
+      "gráfico",
+      "calcula"
+    ],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "what_question": 133,
+      "how_question": 31,
+      "multiple_choice": 215,
+      "according_to": 16,
+      "visual_based": 60
+    }
+  },
+  "M2": {
+    "count": 79,
+    "areas": {
+      "Numeros": 78,
+      "Geometria": 1
+    },
+    "questionTypes": [
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "what_question",
+      "how_question"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 2,
+        "avgLength": 34
+      },
+      {
+        "count": 1,
+        "avgLength": 13
+      },
+      {
+        "count": 4,
+        "avgLength": 48
+      },
+      {
+        "count": 2,
+        "avgLength": 10
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 3.6
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 4,
+        "avgLength": 5.75
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 2,
+        "avgLength": 15.5
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 15
+      },
+      {
+        "count": 5,
+        "avgLength": 16.2
+      },
+      {
+        "count": 5,
+        "avgLength": 8
+      },
+      {
+        "count": 2,
+        "avgLength": 72.5
+      },
+      {
+        "count": 3,
+        "avgLength": 114
+      },
+      {
+        "count": 2,
+        "avgLength": 5.5
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 4,
+        "avgLength": 75.5
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 4,
+        "avgLength": 114.75
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 4.75
+      },
+      {
+        "count": 4,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 4
+      },
+      {
+        "count": 4,
+        "avgLength": 5.75
+      },
+      {
+        "count": 1,
+        "avgLength": 5
+      },
+      {
+        "count": 4,
+        "avgLength": 1.25
+      },
+      {
+        "count": 4,
+        "avgLength": 6.25
+      },
+      {
+        "count": 4,
+        "avgLength": 28.5
+      },
+      {
+        "count": 5,
+        "avgLength": 10.4
+      },
+      {
+        "count": 4,
+        "avgLength": 94.5
+      },
+      {
+        "count": 4,
+        "avgLength": 50.5
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 4,
+        "avgLength": 31
+      },
+      {
+        "count": 5,
+        "avgLength": 34
+      },
+      {
+        "count": 1,
+        "avgLength": 8
+      },
+      {
+        "count": 1,
+        "avgLength": 2
+      },
+      {
+        "count": 1,
+        "avgLength": 241
+      },
+      {
+        "count": 4,
+        "avgLength": 13.25
+      },
+      {
+        "count": 5,
+        "avgLength": 28
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 2,
+        "avgLength": 6
+      },
+      {
+        "count": 1,
+        "avgLength": 7
+      },
+      {
+        "count": 2,
+        "avgLength": 4.5
+      },
+      {
+        "count": 1,
+        "avgLength": 4
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 5,
+        "avgLength": 65.2
+      },
+      {
+        "count": 4,
+        "avgLength": 29
+      },
+      {
+        "count": 1,
+        "avgLength": 6
+      },
+      {
+        "count": 5,
+        "avgLength": 11.4
+      },
+      {
+        "count": 4,
+        "avgLength": 26
+      },
+      {
+        "count": 4,
+        "avgLength": 5.75
+      },
+      {
+        "count": 4,
+        "avgLength": 17.25
+      },
+      {
+        "count": 4,
+        "avgLength": 16
+      },
+      {
+        "count": 1,
+        "avgLength": 1
+      },
+      {
+        "count": 3,
+        "avgLength": 106.66666666666667
+      },
+      {
+        "count": 2,
+        "avgLength": 30
+      },
+      {
+        "count": 2,
+        "avgLength": 112
+      },
+      {
+        "count": 2,
+        "avgLength": 109
+      },
+      {
+        "count": 2,
+        "avgLength": 7
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 1,
+        "avgLength": 92
+      },
+      {
+        "count": 1,
+        "avgLength": 93
+      },
+      {
+        "count": 4,
+        "avgLength": 65.75
+      },
+      {
+        "count": 4,
+        "avgLength": 13.25
+      },
+      {
+        "count": 3,
+        "avgLength": 11
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 4,
+        "avgLength": 20.5
+      },
+      {
+        "count": 4,
+        "avgLength": 13.75
+      },
+      {
+        "count": 5,
+        "avgLength": 46.8
+      },
+      {
+        "count": 3,
+        "avgLength": 13.666666666666666
+      },
+      {
+        "count": 3,
+        "avgLength": 21.666666666666668
+      },
+      {
+        "count": 4,
+        "avgLength": 21
+      },
+      {
+        "count": 3,
+        "avgLength": 5.666666666666667
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 4,
+        "avgLength": 1.75
+      }
+    ],
+    "averageLength": 224,
+    "totalLength": 17673,
+    "keywords": [
+      "valor",
+      "determina",
+      "función",
+      "calcula",
+      "ecuación",
+      "gráfico"
+    ],
+    "readingContext": 0,
+    "questionTypeFreq": {
+      "multiple_choice": 53,
+      "what_question": 40,
+      "how_question": 7,
+      "visual_based": 15,
+      "according_to": 2
+    }
+  },
+  "L": {
+    "count": 269,
+    "areas": {
+      "Comprensión Lectora": 269
+    },
+    "questionTypes": [
+      "what_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "why_question",
+      "according_to",
+      "what_question",
+      "what_question",
+      "why_question",
+      "what_question",
+      "according_to",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "how_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "how_question",
+      "why_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "how_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "why_question",
+      "according_to",
+      "what_question",
+      "why_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "according_to",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "multiple_choice",
+      "why_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "why_question",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "what_question",
+      "what_question",
+      "why_question",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "visual_based",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "what_question",
+      "multiple_choice",
+      "according_to",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "how_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "how_question",
+      "what_question",
+      "what_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "what_question",
+      "according_to",
+      "how_question",
+      "what_question",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "what_question",
+      "according_to",
+      "how_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "according_to",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "according_to",
+      "according_to",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "multiple_choice",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "why_question",
+      "what_question",
+      "why_question",
+      "multiple_choice",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "according_to",
+      "multiple_choice",
+      "how_question",
+      "multiple_choice",
+      "how_question",
+      "according_to",
+      "what_question",
+      "what_question",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "multiple_choice",
+      "what_question",
+      "according_to",
+      "why_question",
+      "according_to",
+      "multiple_choice"
+    ],
+    "contentPatterns": [],
+    "optionPatterns": [
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 63.6
+      },
+      {
+        "count": 5,
+        "avgLength": 11.4
+      },
+      {
+        "count": 5,
+        "avgLength": 48.4
+      },
+      {
+        "count": 5,
+        "avgLength": 137.4
+      },
+      {
+        "count": 5,
+        "avgLength": 115
+      },
+      {
+        "count": 5,
+        "avgLength": 108
+      },
+      {
+        "count": 5,
+        "avgLength": 64.4
+      },
+      {
+        "count": 5,
+        "avgLength": 71.2
+      },
+      {
+        "count": 5,
+        "avgLength": 161.2
+      },
+      {
+        "count": 5,
+        "avgLength": 91
+      },
+      {
+        "count": 5,
+        "avgLength": 20.6
+      },
+      {
+        "count": 5,
+        "avgLength": 105.4
+      },
+      {
+        "count": 5,
+        "avgLength": 131
+      },
+      {
+        "count": 5,
+        "avgLength": 54.4
+      },
+      {
+        "count": 5,
+        "avgLength": 85.4
+      },
+      {
+        "count": 5,
+        "avgLength": 57.6
+      },
+      {
+        "count": 5,
+        "avgLength": 43.8
+      },
+      {
+        "count": 5,
+        "avgLength": 42.8
+      },
+      {
+        "count": 5,
+        "avgLength": 51.8
+      },
+      {
+        "count": 5,
+        "avgLength": 89.4
+      },
+      {
+        "count": 5,
+        "avgLength": 105.6
+      },
+      {
+        "count": 5,
+        "avgLength": 61.6
+      },
+      {
+        "count": 5,
+        "avgLength": 56.6
+      },
+      {
+        "count": 5,
+        "avgLength": 58.4
+      },
+      {
+        "count": 5,
+        "avgLength": 100.8
+      },
+      {
+        "count": 5,
+        "avgLength": 173.8
+      },
+      {
+        "count": 5,
+        "avgLength": 59.8
+      },
+      {
+        "count": 5,
+        "avgLength": 106.6
+      },
+      {
+        "count": 5,
+        "avgLength": 115.6
+      },
+      {
+        "count": 5,
+        "avgLength": 84
+      },
+      {
+        "count": 5,
+        "avgLength": 79.8
+      },
+      {
+        "count": 5,
+        "avgLength": 39.6
+      },
+      {
+        "count": 5,
+        "avgLength": 48
+      },
+      {
+        "count": 5,
+        "avgLength": 53.6
+      },
+      {
+        "count": 5,
+        "avgLength": 96.4
+      },
+      {
+        "count": 5,
+        "avgLength": 62.6
+      },
+      {
+        "count": 5,
+        "avgLength": 109.4
+      },
+      {
+        "count": 5,
+        "avgLength": 105.4
+      },
+      {
+        "count": 5,
+        "avgLength": 14.2
+      },
+      {
+        "count": 5,
+        "avgLength": 66
+      },
+      {
+        "count": 5,
+        "avgLength": 102.4
+      },
+      {
+        "count": 5,
+        "avgLength": 47.6
+      },
+      {
+        "count": 5,
+        "avgLength": 86.8
+      },
+      {
+        "count": 5,
+        "avgLength": 69
+      },
+      {
+        "count": 5,
+        "avgLength": 96.6
+      },
+      {
+        "count": 5,
+        "avgLength": 11
+      },
+      {
+        "count": 5,
+        "avgLength": 8
+      },
+      {
+        "count": 5,
+        "avgLength": 100.2
+      },
+      {
+        "count": 5,
+        "avgLength": 78
+      },
+      {
+        "count": 5,
+        "avgLength": 56.2
+      },
+      {
+        "count": 5,
+        "avgLength": 42.8
+      },
+      {
+        "count": 5,
+        "avgLength": 90
+      },
+      {
+        "count": 5,
+        "avgLength": 64.4
+      },
+      {
+        "count": 5,
+        "avgLength": 7.8
+      },
+      {
+        "count": 5,
+        "avgLength": 9.8
+      },
+      {
+        "count": 5,
+        "avgLength": 39.2
+      },
+      {
+        "count": 5,
+        "avgLength": 12.6
+      },
+      {
+        "count": 5,
+        "avgLength": 49
+      },
+      {
+        "count": 5,
+        "avgLength": 8.4
+      },
+      {
+        "count": 5,
+        "avgLength": 80.6
+      },
+      {
+        "count": 5,
+        "avgLength": 28.6
+      },
+      {
+        "count": 5,
+        "avgLength": 131
+      },
+      {
+        "count": 5,
+        "avgLength": 143.8
+      },
+      {
+        "count": 5,
+        "avgLength": 175.2
+      },
+      {
+        "count": 5,
+        "avgLength": 65.6
+      },
+      {
+        "count": 5,
+        "avgLength": 65.2
+      },
+      {
+        "count": 5,
+        "avgLength": 79.6
+      },
+      {
+        "count": 5,
+        "avgLength": 68.6
+      },
+      {
+        "count": 5,
+        "avgLength": 62.4
+      },
+      {
+        "count": 5,
+        "avgLength": 85.8
+      },
+      {
+        "count": 5,
+        "avgLength": 112.8
+      },
+      {
+        "count": 4,
+        "avgLength": 28
+      },
+      {
+        "count": 4,
+        "avgLength": 36.75
+      },
+      {
+        "count": 4,
+        "avgLength": 62
+      },
+      {
+        "count": 4,
+        "avgLength": 34
+      },
+      {
+        "count": 4,
+        "avgLength": 43.5
+      },
+      {
+        "count": 4,
+        "avgLength": 11
+      },
+      {
+        "count": 4,
+        "avgLength": 112
+      },
+      {
+        "count": 4,
+        "avgLength": 33.25
+      },
+      {
+        "count": 5,
+        "avgLength": 128.2
+      },
+      {
+        "count": 5,
+        "avgLength": 74.4
+      },
+      {
+        "count": 5,
+        "avgLength": 79.6
+      },
+      {
+        "count": 5,
+        "avgLength": 76.6
+      },
+      {
+        "count": 5,
+        "avgLength": 28
+      },
+      {
+        "count": 5,
+        "avgLength": 87
+      },
+      {
+        "count": 5,
+        "avgLength": 53.4
+      },
+      {
+        "count": 5,
+        "avgLength": 47.6
+      },
+      {
+        "count": 4,
+        "avgLength": 35.5
+      },
+      {
+        "count": 4,
+        "avgLength": 63.5
+      },
+      {
+        "count": 4,
+        "avgLength": 65.25
+      },
+      {
+        "count": 4,
+        "avgLength": 37.5
+      },
+      {
+        "count": 4,
+        "avgLength": 44
+      },
+      {
+        "count": 4,
+        "avgLength": 42.25
+      },
+      {
+        "count": 4,
+        "avgLength": 48.25
+      },
+      {
+        "count": 5,
+        "avgLength": 6.8
+      },
+      {
+        "count": 5,
+        "avgLength": 9
+      },
+      {
+        "count": 5,
+        "avgLength": 57
+      },
+      {
+        "count": 5,
+        "avgLength": 90.4
+      },
+      {
+        "count": 5,
+        "avgLength": 54.4
+      },
+      {
+        "count": 5,
+        "avgLength": 64.8
+      },
+      {
+        "count": 5,
+        "avgLength": 179.6
+      },
+      {
+        "count": 5,
+        "avgLength": 102.6
+      },
+      {
+        "count": 5,
+        "avgLength": 8.8
+      },
+      {
+        "count": 5,
+        "avgLength": 7
+      },
+      {
+        "count": 5,
+        "avgLength": 44.6
+      },
+      {
+        "count": 5,
+        "avgLength": 61.2
+      },
+      {
+        "count": 5,
+        "avgLength": 78
+      },
+      {
+        "count": 5,
+        "avgLength": 64.8
+      },
+      {
+        "count": 0,
+        "avgLength": null
+      },
+      {
+        "count": 4,
+        "avgLength": 54.5
+      },
+      {
+        "count": 4,
+        "avgLength": 53.5
+      },
+      {
+        "count": 4,
+        "avgLength": 29.5
+      },
+      {
+        "count": 4,
+        "avgLength": 24.75
+      },
+      {
+        "count": 4,
+        "avgLength": 48
+      },
+      {
+        "count": 4,
+        "avgLength": 66.5
+      },
+      {
+        "count": 4,
+        "avgLength": 13.5
+      },
+      {
+        "count": 4,
+        "avgLength": 55.5
+      },
+      {
+        "count": 4,
+        "avgLength": 51.5
+      },
+      {
+        "count": 4,
+        "avgLength": 70
+      },
+      {
+        "count": 4,
+        "avgLength": 69
+      },
+      {
+        "count": 4,
+        "avgLength": 74.5
+      },
+      {
+        "count": 4,
+        "avgLength": 68.5
+      },
+      {
+        "count": 4,
+        "avgLength": 90.75
+      },
+      {
+        "count": 4,
+        "avgLength": 34.75
+      },
+      {
+        "count": 4,
+        "avgLength": 56
+      },
+      {
+        "count": 4,
+        "avgLength": 36.25
+      },
+      {
+        "count": 4,
+        "avgLength": 38
+      },
+      {
+        "count": 4,
+        "avgLength": 54.25
+      },
+      {
+        "count": 5,
+        "avgLength": 118.6
+      },
+      {
+        "count": 5,
+        "avgLength": 12
+      },
+      {
+        "count": 5,
+        "avgLength": 70.2
+      },
+      {
+        "count": 5,
+        "avgLength": 56
+      },
+      {
+        "count": 5,
+        "avgLength": 80.6
+      },
+      {
+        "count": 5,
+        "avgLength": 104.4
+      },
+      {
+        "count": 5,
+        "avgLength": 8.6
+      },
+      {
+        "count": 5,
+        "avgLength": 30.4
+      },
+      {
+        "count": 5,
+        "avgLength": 78.2
+      },
+      {
+        "count": 5,
+        "avgLength": 34.2
+      },
+      {
+        "count": 5,
+        "avgLength": 46.2
+      },
+      {
+        "count": 5,
+        "avgLength": 8.8
+      },
+      {
+        "count": 5,
+        "avgLength": 47.6
+      },
+      {
+        "count": 5,
+        "avgLength": 55.6
+      },
+      {
+        "count": 5,
+        "avgLength": 77.8
+      },
+      {
+        "count": 5,
+        "avgLength": 56.8
+      },
+      {
+        "count": 5,
+        "avgLength": 125.8
+      },
+      {
+        "count": 5,
+        "avgLength": 102.4
+      },
+      {
+        "count": 5,
+        "avgLength": 132
+      },
+      {
+        "count": 5,
+        "avgLength": 68.4
+      },
+      {
+        "count": 5,
+        "avgLength": 116.6
+      },
+      {
+        "count": 5,
+        "avgLength": 7.8
+      },
+      {
+        "count": 4,
+        "avgLength": 53.5
+      },
+      {
+        "count": 4,
+        "avgLength": 40.25
+      },
+      {
+        "count": 4,
+        "avgLength": 45.75
+      },
+      {
+        "count": 4,
+        "avgLength": 79.75
+      },
+      {
+        "count": 4,
+        "avgLength": 81.25
+      },
+      {
+        "count": 4,
+        "avgLength": 95
+      },
+      {
+        "count": 4,
+        "avgLength": 91.25
+      },
+      {
+        "count": 4,
+        "avgLength": 83.5
+      },
+      {
+        "count": 4,
+        "avgLength": 96.5
+      },
+      {
+        "count": 4,
+        "avgLength": 42
+      },
+      {
+        "count": 4,
+        "avgLength": 103.5
+      },
+      {
+        "count": 4,
+        "avgLength": 42
+      },
+      {
+        "count": 4,
+        "avgLength": 56.5
+      },
+      {
+        "count": 4,
+        "avgLength": 68.25
+      },
+      {
+        "count": 4,
+        "avgLength": 115.5
+      },
+      {
+        "count": 4,
+        "avgLength": 27.75
+      },
+      {
+        "count": 4,
+        "avgLength": 16
+      },
+      {
+        "count": 4,
+        "avgLength": 24.25
+      },
+      {
+        "count": 4,
+        "avgLength": 66.5
+      },
+      {
+        "count": 4,
+        "avgLength": 50.25
+      },
+      {
+        "count": 4,
+        "avgLength": 80
+      },
+      {
+        "count": 4,
+        "avgLength": 70.75
+      },
+      {
+        "count": 4,
+        "avgLength": 88
+      },
+      {
+        "count": 4,
+        "avgLength": 38.75
+      },
+      {
+        "count": 4,
+        "avgLength": 7.25
+      },
+      {
+        "count": 4,
+        "avgLength": 35.5
+      },
+      {
+        "count": 4,
+        "avgLength": 43.25
+      },
+      {
+        "count": 3,
+        "avgLength": 47.666666666666664
+      },
+      {
+        "count": 4,
+        "avgLength": 72
+      },
+      {
+        "count": 4,
+        "avgLength": 55.25
+      },
+      {
+        "count": 4,
+        "avgLength": 5.5
+      },
+      {
+        "count": 4,
+        "avgLength": 5
+      },
+      {
+        "count": 4,
+        "avgLength": 105.75
+      },
+      {
+        "count": 4,
+        "avgLength": 62.5
+      },
+      {
+        "count": 4,
+        "avgLength": 88.25
+      },
+      {
+        "count": 4,
+        "avgLength": 8
+      },
+      {
+        "count": 4,
+        "avgLength": 28.75
+      },
+      {
+        "count": 4,
+        "avgLength": 52.75
+      },
+      {
+        "count": 4,
+        "avgLength": 46.25
+      },
+      {
+        "count": 4,
+        "avgLength": 32.75
+      },
+      {
+        "count": 4,
+        "avgLength": 36.25
+      },
+      {
+        "count": 4,
+        "avgLength": 56
+      },
+      {
+        "count": 4,
+        "avgLength": 41
+      },
+      {
+        "count": 4,
+        "avgLength": 22.5
+      },
+      {
+        "count": 4,
+        "avgLength": 47.75
+      },
+      {
+        "count": 4,
+        "avgLength": 60.75
+      },
+      {
+        "count": 4,
+        "avgLength": 69.5
+      },
+      {
+        "count": 4,
+        "avgLength": 64
+      },
+      {
+        "count": 4,
+        "avgLength": 38.25
+      },
+      {
+        "count": 4,
+        "avgLength": 42.75
+      },
+      {
+        "count": 4,
+        "avgLength": 14
+      },
+      {
+        "count": 4,
+        "avgLength": 32.75
+      },
+      {
+        "count": 4,
+        "avgLength": 52
+      },
+      {
+        "count": 1,
+        "avgLength": 68
+      },
+      {
+        "count": 4,
+        "avgLength": 83.75
+      },
+      {
+        "count": 4,
+        "avgLength": 76.5
+      },
+      {
+        "count": 4,
+        "avgLength": 102
+      },
+      {
+        "count": 4,
+        "avgLength": 47.25
+      },
+      {
+        "count": 4,
+        "avgLength": 54.5
+      },
+      {
+        "count": 4,
+        "avgLength": 75
+      },
+      {
+        "count": 4,
+        "avgLength": 27.25
+      },
+      {
+        "count": 4,
+        "avgLength": 20.75
+      },
+      {
+        "count": 4,
+        "avgLength": 14.25
+      },
+      {
+        "count": 4,
+        "avgLength": 94.25
+      },
+      {
+        "count": 4,
+        "avgLength": 94.5
+      },
+      {
+        "count": 4,
+        "avgLength": 60
+      },
+      {
+        "count": 4,
+        "avgLength": 105.5
+      },
+      {
+        "count": 4,
+        "avgLength": 41.75
+      },
+      {
+        "count": 4,
+        "avgLength": 62.25
+      },
+      {
+        "count": 4,
+        "avgLength": 55
+      },
+      {
+        "count": 4,
+        "avgLength": 51.5
+      },
+      {
+        "count": 4,
+        "avgLength": 67.25
+      },
+      {
+        "count": 4,
+        "avgLength": 65.75
+      },
+      {
+        "count": 4,
+        "avgLength": 62.5
+      },
+      {
+        "count": 4,
+        "avgLength": 62.75
+      },
+      {
+        "count": 4,
+        "avgLength": 28.75
+      },
+      {
+        "count": 4,
+        "avgLength": 80.5
+      },
+      {
+        "count": 4,
+        "avgLength": 73.75
+      },
+      {
+        "count": 4,
+        "avgLength": 53.75
+      },
+      {
+        "count": 4,
+        "avgLength": 49
+      },
+      {
+        "count": 4,
+        "avgLength": 76
+      },
+      {
+        "count": 4,
+        "avgLength": 59.25
+      },
+      {
+        "count": 4,
+        "avgLength": 25.75
+      },
+      {
+        "count": 4,
+        "avgLength": 79.5
+      },
+      {
+        "count": 4,
+        "avgLength": 53.75
+      },
+      {
+        "count": 4,
+        "avgLength": 30
+      },
+      {
+        "count": 4,
+        "avgLength": 79.75
+      },
+      {
+        "count": 4,
+        "avgLength": 45
+      },
+      {
+        "count": 4,
+        "avgLength": 147.25
+      },
+      {
+        "count": 4,
+        "avgLength": 84.75
+      },
+      {
+        "count": 4,
+        "avgLength": 51.25
+      },
+      {
+        "count": 4,
+        "avgLength": 27.5
+      },
+      {
+        "count": 4,
+        "avgLength": 70
+      },
+      {
+        "count": 4,
+        "avgLength": 76.75
+      },
+      {
+        "count": 4,
+        "avgLength": 9.5
+      },
+      {
+        "count": 4,
+        "avgLength": 61
+      },
+      {
+        "count": 4,
+        "avgLength": 63.25
+      },
+      {
+        "count": 4,
+        "avgLength": 65.5
+      },
+      {
+        "count": 4,
+        "avgLength": 24
+      },
+      {
+        "count": 4,
+        "avgLength": 60.5
+      },
+      {
+        "count": 4,
+        "avgLength": 63
+      },
+      {
+        "count": 4,
+        "avgLength": 74
+      },
+      {
+        "count": 4,
+        "avgLength": 118.75
+      },
+      {
+        "count": 4,
+        "avgLength": 29.25
+      },
+      {
+        "count": 4,
+        "avgLength": 37
+      },
+      {
+        "count": 4,
+        "avgLength": 95.75
+      },
+      {
+        "count": 4,
+        "avgLength": 118
+      },
+      {
+        "count": 4,
+        "avgLength": 66.5
+      },
+      {
+        "count": 4,
+        "avgLength": 76
+      },
+      {
+        "count": 4,
+        "avgLength": 93.25
+      },
+      {
+        "count": 4,
+        "avgLength": 102
+      },
+      {
+        "count": 4,
+        "avgLength": 59.5
+      },
+      {
+        "count": 4,
+        "avgLength": 62.75
+      },
+      {
+        "count": 4,
+        "avgLength": 64.5
+      },
+      {
+        "count": 4,
+        "avgLength": 48
+      },
+      {
+        "count": 4,
+        "avgLength": 80.5
+      },
+      {
+        "count": 4,
+        "avgLength": 51.25
+      },
+      {
+        "count": 4,
+        "avgLength": 56.5
+      }
+    ],
+    "averageLength": 90,
+    "totalLength": 24223,
+    "keywords": [
+      "narrador",
+      "texto",
+      "párrafo",
+      "autor",
+      "idea",
+      "personaje",
+      "propósito"
+    ],
+    "readingContext": 269,
+    "questionTypeFreq": {
+      "what_question": 128,
+      "according_to": 38,
+      "multiple_choice": 97,
+      "why_question": 11,
+      "how_question": 19,
+      "visual_based": 3
+    }
+  }
+}

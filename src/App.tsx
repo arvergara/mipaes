@@ -5,6 +5,7 @@ import { ModeSelector } from './components/ModeSelector';
 import { PAESMode } from './components/PAESMode';
 import { TestMode } from './components/TestMode';
 import { ReviewMode } from './components/ReviewMode';
+import { QuestionStats } from './components/QuestionStats';
 import { Toaster } from 'react-hot-toast';
 import type { Subject, PracticeMode } from './types';
 import { useAuth } from './hooks/useAuth';
@@ -59,7 +60,7 @@ function App() {
           <h2 className="text-3xl font-bold text-gray-800 mb-8 text-center">
             Selecciona una Materia
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-4xl mx-auto mb-12">
             {subjects.map((subject) => (
               <SubjectCard
                 key={subject}
@@ -67,6 +68,11 @@ function App() {
                 onSelect={handleSubjectSelect}
               />
             ))}
+          </div>
+          
+          {/* Question Statistics */}
+          <div className="max-w-6xl mx-auto">
+            <QuestionStats />
           </div>
         </>
       );

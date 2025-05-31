@@ -1,0 +1,40 @@
+{
+  "prueba_id": "2024_F103",
+  "estructura": {
+    "total_preguntas": 48,
+    "bloques": [
+      "Localizar",
+      "Interpretar",
+      "Evaluar"
+    ]
+  },
+  "lecturas": [
+    {
+      "id": "L1",
+      "titulo": "Discurso de recepción del Premio Nobel de Literatura",
+      "autor": "Wislawa Szymborska",
+      "tipo": "Discurso",
+      "año": 1996,
+      "fragmento": "Se dice que en un discurso lo más difícil es siempre la primera frase... Pues ya la dije... Pero presiento que las que siguen van a ser igualmente difíciles, la tercera, la sexta, la décima, hasta la última, ya que debo hablar sobre poesía. Muy raras veces me he expresado acerca de este tema, casi nunca, y siempre con la convicción de que no lo hago muy bien. Por eso mi discurso no va a ser demasiado largo. Toda imperfección resulta más fácil de aguantar si se sirve en pequeñas dosis.\nEl poeta contemporáneo es escéptico y desconfía incluso ‒o más bien principalmente‒ de sí mismo. Con desgano confiesa públicamente que es poeta ‒como si se tratara de algo vergonzoso‒. En estos tiempos bulliciosos es más fácil que admitamos los vicios propios, con tal de causar efectos fuertes; mucho más difícil es reconocer las virtudes, ya que están escondidas más profundamente, y hasta uno mismo no cree tanto en ellas. En las encuestas o en los encuentros con amigos ocasionales, cuando el poeta se ve forzado a definir su profesión, acude al término genérico 'escritor' o al de alguna otra profesión que adicionalmente ejerza. El empleado público o los eventuales compañeros de viaje reciben con cierta perplejidad e inquietud la noticia de que están tratando con un poeta. Sospecho que los filósofos también producen semejante inquietud. No obstante, ellos se encuentran en mejor situación, ya que generalmente pueden adornar su profesión con algún grado académico. Profesor de Filosofía ‒ya suena mucho más serio‒.\nNo existen profesores de poesía, lo que haría suponer que esta actividad requiere de estudios especializados, exámenes presentados en fechas precisas, disertaciones teóricas rematadas con bibliografía y notas y, finalmente, los diplomas recibidos con solemnidad. Todo esto, a su vez, significaría que para graduarse de poeta no bastarían las hojas de papel, aun cuando estuvieran llenas de excelentes versos, sino que se necesitaría, sobre todo, un papel con sello y firma. Recordemos que justamente esta fue la razón por la que condenaron al destierro a Josef Brodsky, orgullo de la poesía rusa, quien más tarde fue galardonado con el Premio Nobel. A Brodsky se le clasificó como 'parásito', por no contar con un certificado oficial que le permitiera ser poeta... Hace un par de años tuve el honor y la alegría de conocerlo en persona. Me di cuenta de que solamente a él, entre todos los poetas que he conocido, le gustaba llamarse a sí mismo 'poeta'; pronunciaba esta palabra sin conflictos internos y hasta con cierta desafiante desenvoltura. Pienso que se debía al recuerdo de las violentas humillaciones que sufrió en su juventud.\nEn países más dichosos, los poetas, obviamente, quieren ser publicados, leídos y entendidos, pero ya no hacen nada o casi nada en su vida cotidiana para destacar entre la gente. Sin embargo, hace poco, en las primeras décadas de nuestro siglo, a los poetas les gustaba escandalizar con su ropa extravagante y con un comportamiento excéntrico. Aquellos no eran más que espectáculos para el público, ya que siempre tenía que llegar el momento en que el poeta cerraba la puerta, se quitaba toda esa parafernalia: capas y oropeles, y se detenía en el silencio, en espera de sí mismo frente a una hoja de papel en blanco, que en el fondo es lo único que importa."
+    },
+    {
+      "id": "L2",
+      "titulo": "Un oasis de dicha",
+      "autor": "Martine Mauriras-Bousquet",
+      "tipo": "Artículo académico",
+      "año": 1991,
+      "fragmento": "Si se introduce en un laberinto una rata bien alimentada y sin ningún motivo particular de inquietud, el animal se pone a recorrer sus nuevos dominios, a explorarlos sin ninguna razón evidente, puesto que no tiene hambre ni miedo, sino más bien por curiosidad, por ganas de jugar. De este modo se familiariza al parecer con el plano del laberinto. Por ello, si se la introduce en ayunas en el mismo laberinto tras haber puesto en él comida, la rata descubre en seguida el camino que conduce al alimento, mucho antes que otra rata que no haya estado allí antes jugando y no haya podido averiguar cuál es su configuración.\nLa pulsión de juego (también llamada pulsión de curiosidad o pulsión de exploración, tres denominaciones que los etólogos utilizan casi indiferentemente) proporciona una clara ventaja, tanto a la especie como al individuo, en los procesos de selección natural. El que tiene la costumbre de explorar su entorno sin un objetivo preciso multiplica las ocasiones de informarse y estará, por consiguiente, mejor preparado para hacer frente a las situaciones imprevistas.\nEn distinto grado, todos los animales juegan, exploran y se mueven sin motivo aparente, pero solo algunos conservan la capacidad juvenil de jugar una vez llegados a la edad adulta, como sucede, en particular, con algunas aves (los cuervos), los roedores, los carnívoros superiores, los primates y, evidentemente, el ser humano. Hay que señalar que las especies realmente aptas para el juego son también las más 'cosmopolitas', las que han sabido adaptarse a climas muy variados, aumentando así sus posibilidades de supervivencia."
+    },
+    {
+      "id": "L4",
+      "titulo": "¿Qué es la psicología?",
+      "autor": "Charles Morris y Albert Maisto",
+      "tipo": "Libro",
+      "año": 2005,
+      "fragmento": "'La mayoría de los psicólogos estudian los problemas mentales y emocionales y trabajan como psicoterapeutas'. ¿Es esta afirmación verdadera o falsa? Responder la pregunta '¿Qué es la psicología?' no es tan simple como podría pensarse. La mayoría de los psicólogos contemporáneos estaría de acuerdo en que la psicología es la ciencia de la conducta y los procesos mentales. Pero esta definición general no refleja la amplitud, profundidad o lo apasionante del campo. Los psicólogos pretenden explicar cómo percibimos, aprendemos, recordamos, resolvemos problemas, nos comunicamos, sentimos y nos relacionamos con otras personas, desde el nacimiento hasta la muerte, en relaciones íntimas y en grupos. Intentan entender, medir y explicar la naturaleza de la inteligencia, la motivación y la personalidad, así como las diferencias individuales y de grupo. Los psicólogos pueden concentrarse en las perturbaciones mentales y emocionales, los problemas personales y sociales, la psicoterapia, o en mejorar la moral y las relaciones de grupo.\nAl final del siglo XX, la psicología se expandió considerablemente. Surgieron nuevas tecnologías de investigación, nuevos campos de indagación y nuevos enfoques del estudio de la conducta y los procesos mentales. Esos avances dieron lugar a una mayor especialización dentro de la psicología, a una creciente colaboración con otras ciencias y al equivalente académico de una crisis de identidad. Como resultado, la psicología se redefine de manera continua. Quizá la mejor manera de introducirse al mundo de la psicología sea observar los temas que interesan a los psicólogos."
+    },
+    {
+      "id": "L6",
+      "titulo": "La tensión puerto-balneario en Valparaíso",
+      "autor": "Rodrigo Booth",
+      "tipo": "Artícu

@@ -8,22 +8,37 @@ export interface User {
   grade?: string;
 }
 
+export interface ReadingContext {
+  titulo: string;
+  texto: string;
+  numero_lectura: number;
+}
+
 export interface Question {
   id: string;
   subject: Subject;
   content: string;
   options: {
-    a: string;
-    b: string;
-    c: string;
-    d: string;
+    a?: string;
+    b?: string;
+    c?: string;
+    d?: string;
+    A?: string;
+    B?: string;
+    C?: string;
+    D?: string;
   };
-  correctAnswer: 'a' | 'b' | 'c' | 'd';
+  correctAnswer: 'a' | 'b' | 'c' | 'd' | 'A' | 'B' | 'C' | 'D';
   explanation: string;
   areaTematica?: string;
   tema?: string;
   subtema?: string;
   difficulty?: number;
+  habilidad?: string;
+  readingContext?: ReadingContext;
+  hasImages?: boolean;
+  imageRefs?: string[];
+  numeroOriginal?: number;
 }
 
 export interface QuestionAttempt {
