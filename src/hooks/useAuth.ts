@@ -24,20 +24,58 @@ export function useAuth() {
     } = supabase.auth.onAuthStateChange(async (event, session) => {
       console.log('Auth event:', event);
       
-      if (event === 'SIGNED_IN') {
-        // Verify user data exists in public.users table
+      if (event === 'SIGNED_IN' && session?.user) {
+        // Verify user data exists in usuarios table
         const { data: userData, error: userError } = await supabase
-          .from('users')
+          .from('usuarios')
           .select('*')
-          .eq('id', session?.user?.id)
+          .eq('id', session.user.id)
           .single();
 
-        if (userError || !userData) {
+        if (userError) {
           console.error('Error verifying user data:', userError);
-          toast.error('Error al verificar datos de usuario');
-          await supabase.auth.signOut();
-          setUser(null);
-          return;
+          
+          // If user profile doesn't exist, try to create it from auth metadata
+          if (userError.code === 'PGRST116') { // No rows returned
+            console.log('User profile not found, attempting to create...');
+            
+            const metadata = session.user.user_metadata;
+            if (metadata && metadata.nombre && metadata.rut) {
+              try {
+                const { error: insertError } = await supabase
+                  .from('usuarios')
+                  .insert({
+                    id: session.user.id,
+                    nombre: metadata.nombre,
+                    apellido_paterno: metadata.apellido_paterno,
+                    apellido_materno: metadata.apellido_materno || null,
+                    rut: metadata.rut,
+                    curso: metadata.curso,
+                    colegio: metadata.colegio,
+                    fecha_nacimiento: metadata.fecha_nacimiento,
+                    sexo: metadata.sexo,
+                    telefono: metadata.telefono || null
+                  });
+                
+                if (insertError) {
+                  console.error('Error creating user profile:', insertError);
+                  toast.error('Error al crear perfil de usuario');
+                } else {
+                  console.log('User profile created successfully');
+                  toast.success('¡Bienvenido! Perfil creado exitosamente');
+                }
+              } catch (createError) {
+                console.error('Exception creating user profile:', createError);
+                toast.error('Error al configurar tu cuenta');
+              }
+            } else {
+              toast.error('Datos de usuario incompletos');
+            }
+          } else {
+            toast.error('Error al verificar datos de usuario');
+          }
+        } else {
+          console.log('User profile verified successfully');
         }
       }
 

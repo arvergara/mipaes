@@ -83,7 +83,7 @@ export function AuthModal({ isOpen, onClose, mode: initialMode }: AuthModalProps
         }
 
         // Register new user
-        const { error: signUpError } = await supabase.auth.signUp({
+        const { data: authData, error: signUpError } = await supabase.auth.signUp({
           email,
           password,
           options: {
@@ -101,6 +101,8 @@ export function AuthModal({ isOpen, onClose, mode: initialMode }: AuthModalProps
             emailRedirectTo: `${window.location.origin}`,
           }
         });
+
+        console.log('Signup response:', { authData, signUpError });
 
         if (signUpError) throw signUpError;
 
