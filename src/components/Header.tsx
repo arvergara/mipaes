@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
-import { BookOpen, BarChart, Flag } from 'lucide-react';
+import { BookOpen, BarChart, Flag, Settings } from 'lucide-react';
 import { AuthModal } from './AuthModal';
 import { PerformanceModal } from './PerformanceModal';
 import { FeedbackManagement } from './FeedbackManagement';
+import { ConnectionDiagnostic } from './ConnectionDiagnostic';
 import { supabase } from '../lib/supabase';
 import toast from 'react-hot-toast';
 import { useAuth } from '../hooks/useAuth';
@@ -11,6 +12,7 @@ export function Header() {
   const [showAuthModal, setShowAuthModal] = useState(false);
   const [showPerformanceModal, setShowPerformanceModal] = useState(false);
   const [showFeedbackModal, setShowFeedbackModal] = useState(false);
+  const [showDiagnosticModal, setShowDiagnosticModal] = useState(false);
   const [authMode, setAuthMode] = useState<'login' | 'register'>('login');
   const { user, loading } = useAuth();
 
@@ -78,6 +80,15 @@ export function Header() {
                 <>
                   <li>
                     <button
+                      onClick={() => setShowDiagnosticModal(true)}
+                      className="flex items-center space-x-2 hover:text-indigo-200 transition-colors"
+                    >
+                      <Settings className="h-5 w-5" />
+                      <span>Diagnóstico</span>
+                    </button>
+                  </li>
+                  <li>
+                    <button
                       onClick={() => openModal('login')}
                       className="hover:text-indigo-200 transition-colors"
                     >
@@ -114,6 +125,22 @@ export function Header() {
         isOpen={showFeedbackModal}
         onClose={() => setShowFeedbackModal(false)}
       />
+
+      {showDiagnosticModal && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
+          <div className="bg-white rounded-lg shadow-xl w-full max-w-2xl relative max-h-[90vh] overflow-y-auto">
+            <button
+              onClick={() => setShowDiagnosticModal(false)}
+              className="absolute right-4 top-4 text-gray-500 hover:text-gray-700 z-10"
+            >
+              ✕
+            </button>
+            <div className="p-6">
+              <ConnectionDiagnostic />
+            </div>
+          </div>
+        </div>
+      )}
     </>
   );
 }

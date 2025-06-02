@@ -107,14 +107,22 @@ export function AuthModal({ isOpen, onClose, mode: initialMode }: AuthModalProps
         toast.success('¡Registro exitoso! Ya puedes iniciar sesión.');
         setMode('login');
       } else if (mode === 'login') {
+        console.log('Attempting login with:', { email, supabaseUrl: import.meta.env.VITE_SUPABASE_URL?.substring(0, 20) + '...' });
+        
         const { error: signInError } = await supabase.auth.signInWithPassword({
           email,
           password,
         });
 
         if (signInError) {
+          console.error('Supabase auth error:', signInError);
+          
           if (signInError.message.includes('Invalid login credentials')) {
             throw new Error('Email o contraseña incorrectos');
+          } else if (signInError.message.includes('fetch')) {
+            throw new Error('Error de conexión con el servidor. Verifica tu conexión a internet.');
+          } else if (signInError.message.includes('network')) {
+            throw new Error('Error de red. Intenta nuevamente en unos segundos.');
           }
           throw signInError;
         }
